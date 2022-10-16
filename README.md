@@ -7,11 +7,15 @@
 
 Предавања из Дигиталне електронике у понедељак 3. октобра 2022. године неће бити одржана због одсуства предметног наставника.
 
+Надокнада из Дигиталне електронике биће одржана у четвртак 20. октобра 2022. године.
+
 ## Настава
 
 Предавања:
 * [DigEl слајдови 1](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture1-Intro_2up.pdf)
 * [DigEl слајдови 2](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture2-IC-Basics_2up.pdf)
+* [DigEl слајдови 3](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture3-Inverter_Metrics_2up.pdf)
+* [DigEl слајдови 4](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture4-Gates_Design_Rules_2up.pdf)
 
 ## Литература
 
@@ -21,6 +25,7 @@
 ## Домаћи задаци
 
 * [први домаћи задатак](./dz/dz1.md)
+* [други домаћи задатак](./dz/dz2.md)
 
 ## Семинарски радови
 
@@ -28,6 +33,15 @@
 
 Неке од потенцијалних тема за семинарске радове:
 * [SPICE](https://en.wikipedia.org/wiki/SPICE)
+* [Design rule checking](https://en.wikipedia.org/wiki/Design_rule_checking)
+* [Layout Versus Schematic](https://en.wikipedia.org/wiki/Layout_Versus_Schematic)
+* [Magic](https://en.wikipedia.org/wiki/Magic_(software))
+* [GDSII](https://en.wikipedia.org/wiki/GDSII)
+* [IC layout editor](https://en.wikipedia.org/wiki/IC_layout_editor)
+* [PDK](https://en.wikipedia.org/wiki/Process_design_kit)
+* [PCell](https://en.wikipedia.org/wiki/PCell)
+* [Физичка верификација](https://en.wikipedia.org/wiki/Physical_verification)
+* [Ефекат антене](https://en.wikipedia.org/wiki/Antenna_effect)
 * Било који добар чланак: 30 поена
 * Било који сјајан чланак: 60 поена
 
