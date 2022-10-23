@@ -5,17 +5,34 @@
 
 ## Обавештења
 
-Предавања из Дигиталне електронике у понедељак 3. октобра 2022. године неће бити одржана због одсуства предметног наставника.
+[Путеви каријере у индустрији чипова](https://www.elfak.ni.ac.rs/informacije/novosti-i-obavestenja/prvi-put-u-evropi-putevi-karijere-u-industriji-cipova-na-elektronskom-fakultetu-u-nisu) ([GSA WLI Pathways Conference – Serbia](https://designthesolution.org/gsa-wli-pathways-conference-serbia)) конференција биће одржана 14. новембра на Електронском факултету у Нишу. Догађај се може пратити и путем интернета, а ако буде више заинтересованих могућа је и организација аутобуског превоза.
 
-Надокнада из Дигиталне електронике биће одржана у четвртак 20. октобра 2022. године.
+Предавања из Дигиталне електронике у понедељак 3. октобра 2022. године неће бити одржана због одсуства предметног наставника.
 
 ## Настава
 
 Предавања:
-* [DigEl слајдови 1](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture1-Intro_2up.pdf)
-* [DigEl слајдови 2](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture2-IC-Basics_2up.pdf)
-* [DigEl слајдови 3](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture3-Inverter_Metrics_2up.pdf)
-* [DigEl слајдови 4](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture4-Gates_Design_Rules_2up.pdf)
+* DigEl слајдови 1: [EE141 s10l1](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture1-Intro.pdf) и [EE141 s12l1](https://www.coursehero.com/file/6930410/Lecture1-Intro)
+* DigEl слајдови 2: [EE141 s10l2](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture2-Metrics.pdf) и [EE141 s12l2](https://www.coursehero.com/file/6930411/Lecture2-Metrics-HO2)
+* DigEl слајдови 3: [EE141 s10l3](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture3-DesignRules.pdf) и [EE141 s12l3](https://www.coursehero.com/file/6930412/Lecture3-DesignRules-HO2)
+* DigEl слајдови 4: [EE141 s10l4](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture4-SwitchLogic.pdf) и [EE141 s12l4](https://www.coursehero.com/file/6930413/Lecture4-DRLogic-HO2)
+* DigEl слајдови 5: [EE141 s10l5](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture5-SwitchLogic%20Cntd.pdf) и [EE141 s12l5](https://www.coursehero.com/file/6930414/Lecture5-SwitchLogic-HO2)
+* DigEl слајдови 6: [EE141 s10l6](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture6-ComplexLogic.pdf) и [EE141 s12l6](https://www.coursehero.com/file/6930415/Lecture6-ComplexLogic-HO2)
+* DigEl слајдови 7: [EE141 s10l7](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture7-Wires.pdf) и [EE141 s12l7](https://www.coursehero.com/file/6930416/Lecture7-Wires-HO2)
+* DigEl слајдови 8: [EE141 s10l8](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture8-Wires-Transistors.pdf) и [EE141 s12l8](https://www.coursehero.com/file/6930417/Lecture8-WiresLogic)
+* DigEl слајдови 9: [EE141 s10l9](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture9-Transistors.pdf) и [EE141 s12l9](https://www.coursehero.com/file/6930418/Lecture9-Transistors-HO2)
+
+<!--
+* DigEl слајдови 1: [EE141 f12l1](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture1-Intro_2up.pdf)
+* DigEl слајдови 2: [EE141 f12l2](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture2-IC-Basics_2up.pdf)
+* DigEl слајдови 3: [EE141 f12l3](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture3-Inverter_Metrics_2up.pdf)
+* DigEl слајдови 4: [EE141 f12l4](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture4-Gates_Design_Rules_2up.pdf)
+* DigEl слајдови 5: [EE141 f12l5](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture5-Memory_2up.pdf)
+* DigEl слајдови 6: [EE141 f12l6](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture6-Inverter_Delay_Opt_2up.pdf)
+* DigEl слајдови 7: [EE141 f12l7](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture7-LE_2up.pdf)
+* DigEl слајдови 8: [EE141 f12l8](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture8-Decoder_LE_2up.pdf)
+* DigEl слајдови 9: [EE141 f12l9](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture9-MOS_Transistor_2up.pdf)
+-->
 
 ## Литература
 
