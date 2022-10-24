@@ -43,6 +43,8 @@
 
 * [први домаћи задатак](./dz/dz1.md)
 * [други домаћи задатак](./dz/dz2.md)
+* [трећи домаћи задатак](./dz/dz3.md)
+* [четврти домаћи задатак](./dz/dz4.md)
 
 ## Семинарски радови
 
@@ -59,6 +61,9 @@
 * [PCell](https://en.wikipedia.org/wiki/PCell)
 * [Физичка верификација](https://en.wikipedia.org/wiki/Physical_verification)
 * [Ефекат антене](https://en.wikipedia.org/wiki/Antenna_effect)
+* [Списак електричних веза](https://en.wikipedia.org/wiki/Netlist)
+* [Аутоматизација електронског пројектовања](https://en.wikipedia.org/wiki/Electronic_design_automation)
+* [Дигитални бафер](https://en.wikipedia.org/wiki/Digital_buffer)
 * Било који добар чланак: 30 поена
 * Било који сјајан чланак: 60 поена
 
