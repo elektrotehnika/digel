@@ -5,6 +5,8 @@
 
 ## Обавештења
 
+Догађај за студенте под називом [Seeds for the future 2022](./Huawei/SftF2022.pdf) који организује Huawei биће ове године одржан преко интернета у периоду од 14. до 21. новембра. Више о самом догађају можете видети у [пропратној презентацији](./Huawei/SftF2022.pdf), а заинтересовани студенти се могу пријавити путем [формулара](https://forms.gle/WtaFBXmT4eu6vedu7) до понедељка 7. новембра 2022. године.
+
 [Путеви каријере у индустрији чипова](https://www.elfak.ni.ac.rs/informacije/novosti-i-obavestenja/prvi-put-u-evropi-putevi-karijere-u-industriji-cipova-na-elektronskom-fakultetu-u-nisu) ([GSA WLI Pathways Conference – Serbia](https://designthesolution.org/gsa-wli-pathways-conference-serbia)) конференција биће одржана 14. новембра на Електронском факултету у Нишу. Догађај се може пратити и путем интернета, а ако буде више заинтересованих могућа је и организација аутобуског превоза.
 
 Телеком Србија у оквиру свог IoT лаба организује [стручне праксе за школску 2022/23. годину](https://mts.rs/Poslovni/IoT/lab), а студенти Факултета инжењерских наука по први пут ове године могу да узму учешће.
@@ -55,6 +57,7 @@
 За случај да више студената ради једну тему, број бодова који добија сваки од студената се дели са бројем студената.
 
 Неке од потенцијалних тема за семинарске радове:
+* [Дигитални бафер](https://sr.wikipedia.org/wiki/Дигитални_бафер) - урађено
 * [SPICE](https://en.wikipedia.org/wiki/SPICE)
 * [Design rule checking](https://en.wikipedia.org/wiki/Design_rule_checking)
 * [Layout Versus Schematic](https://en.wikipedia.org/wiki/Layout_Versus_Schematic)
@@ -67,7 +70,6 @@
 * [Ефекат антене](https://en.wikipedia.org/wiki/Antenna_effect)
 * [Списак електричних веза](https://en.wikipedia.org/wiki/Netlist)
 * [Аутоматизација електронског пројектовања](https://en.wikipedia.org/wiki/Electronic_design_automation)
-* [Дигитални бафер](https://en.wikipedia.org/wiki/Digital_buffer)
 * Било који добар чланак: 30 поена
 * Било који сјајан чланак: 60 поена
 
