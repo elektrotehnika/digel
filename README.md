@@ -5,7 +5,7 @@
 
 ## Обавештења
 
-Догађај за студенте под називом [Seeds for the future 2022](./Huawei/SftF2022.pdf) који организује Huawei биће ове године одржан преко интернета у периоду од 14. до 21. новембра. Више о самом догађају можете видети у [пропратној презентацији](./Huawei/SftF2022.pdf), а заинтересовани студенти се могу пријавити путем [формулара](https://forms.gle/WtaFBXmT4eu6vedu7) до понедељка 7. новембра 2022. године.
+Догађај за студенте под називом [Seeds for the future 2022](https://www.huawei.com/minisite/seeds-for-the-future/index.html) који организује Huawei биће ове године одржан преко интернета у периоду од 14. до 21. новембра. Више о самом догађају можете видети у [пропратној презентацији](./Huawei/SftF2022.pdf), а заинтересовани студенти се могу пријавити путем [формулара](https://forms.gle/WtaFBXmT4eu6vedu7) до понедељка 7. новембра 2022. године.
 
 [Путеви каријере у индустрији чипова](https://www.elfak.ni.ac.rs/informacije/novosti-i-obavestenja/prvi-put-u-evropi-putevi-karijere-u-industriji-cipova-na-elektronskom-fakultetu-u-nisu) ([GSA WLI Pathways Conference – Serbia](https://designthesolution.org/gsa-wli-pathways-conference-serbia)) конференција биће одржана 14. новембра на Електронском факултету у Нишу. Догађај се може пратити и путем интернета, а ако буде више заинтересованих могућа је и организација аутобуског превоза.
 
