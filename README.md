@@ -16,35 +16,35 @@
 ## Настава
 
 Предавања:
-* DigEl слајдови 1: [EE141 s10l1](EE141_s10l1) и [EE141 s12l1](EE141_s12l1) и [EE141 f12l1](EE141_f12l1)
-* DigEl слајдови 2: [EE141 s10l2](EE141_s10l2) и [EE141 s12l2](EE141_s12l2) и [EE141 f12l2](EE141_f12l2)
-* DigEl слајдови 3: [EE141 s10l3](EE141_s10l3) и [EE141 s12l3](EE141_s12l3) и [EE141 f12l3](EE141_f12l3)
-* DigEl слајдови 4: [EE141 s10l4](EE141_s10l4) и [EE141 s12l4](EE141_s12l4) и [EE141 f12l4](EE141_f12l4)
-* DigEl слајдови 5: [EE141 s10l5](EE141_s10l5) и [EE141 s12l5](EE141_s12l5) и [EE141 f12l5](EE141_f12l5)
-* DigEl слајдови 6: [EE141 s10l6](EE141_s10l6) и [EE141 s12l6](EE141_s12l6) и [EE141 f12l6](EE141_f12l6)
-* DigEl слајдови 7: [EE141 s10l7](EE141_s10l7) и [EE141 s12l7](EE141_s12l7) и [EE141 f12l7](EE141_f12l7)
-* DigEl слајдови 8: [EE141 s10l8](EE141_s10l8) и [EE141 s12l8](EE141_s12l8) и [EE141 f12l8](EE141_f12l8)
-* DigEl слајдови 9: [EE141 s10l9](EE141_s10l9) и [EE141 s12l9](EE141_s12l9) и [EE141 f12l9](EE141_f12l9)
-* DigEl слајдови 10: **први колоквијум** и [EE141 s12l10](EE141_s12l10) и [EE141 f12l10](EE141_f12l10)
-* DigEl слајдови 11: [EE141 s10l11](EE141_s10l11) и [EE141 s12l11](EE141_s12l11) и [EE141 f12l11](EE141_f12l11)
-* DigEl слајдови 12: [EE141 s10l12](EE141_s10l12) и [EE141 s12l12](EE141_s12l12) и [EE141 f12l12](EE141_f12l12)
-* DigEl слајдови 13: [EE141 s10l13](EE141_s10l13) и [EE141 s12l13](EE141_s12l13) и [EE141 f12l13](EE141_f12l13)
-* DigEl слајдови 14: [EE141 s10l14](EE141_s10l14) и [EE141 s12l14](EE141_s12l14) и [EE141 f12l14](EE141_f12l14)
-* DigEl слајдови 15: [EE141 s10l15](EE141_s10l15) и [EE141 s12l15](EE141_s12l15) и [EE141 f12l15](EE141_f12l15)
-* DigEl слајдови 16: [EE141 s10l16](EE141_s10l16) и [EE141 s12l16](EE141_s12l16) и [EE141 f12l16](EE141_f12l16)
-* DigEl слајдови 17: [EE141 s10l17](EE141_s10l17) и [EE141 s12l17](EE141_s12l17) и [EE141 f12l17](EE141_f12l17)
-* DigEl слајдови 18: [EE141 s10l18](EE141_s10l18) и [EE141 s12l18](EE141_s12l18) и [EE141 f12l18](EE141_f12l18)
-* DigEl слајдови 19: [EE141 s10l19](EE141_s10l19) и [EE141 s12l19](EE141_s12l19) и [EE141 f12l19](EE141_f12l19)
-* DigEl слајдови 20: [EE141 s10l20](EE141_s10l20) и [EE141 s12l20](EE141_s12l20) и [EE141 f12l20](EE141_f12l20)
-* DigEl слајдови 21: **други колоквијум** и [EE141 s12l21](EE141_s12l21) и [EE141 f12l21](EE141_f12l21)
-* DigEl слајдови 22: [EE141 s10l22](EE141_s10l22) и [EE141 s12l22](EE141_s12l22) и [EE141 f12l22](EE141_f12l22)
-* DigEl слајдови 23: [EE141 s10l23](EE141_s10l23) и [EE141 s12l23](EE141_s12l23) и [EE141 f12l23](EE141_f12l23)
-* DigEl слајдови 24: [EE141 s10l24](EE141_s10l24) и [EE141 s12l24](EE141_s12l24) и [EE141 f12l24](EE141_f12l24)
-* DigEl слајдови 25: [EE141 s10l25](EE141_s10l25) и [EE141 f12l25](EE141_f12l25)
-* DigEl слајдови 26: [EE141 f12l26](EE141_f12l26)
-* DigEl слајдови 27: [EE141 f12l27](EE141_f12l27)
-* DigEl слајдови 28: [EE141 s10l28](EE141_s10l28)
-* DigEl слајдови 29: [EE141 s10l29](EE141_s10l29)
+* DigEl слајдови 1: [EE141 s10l1][EE141_s10l1] и [EE141 s12l1][EE141_s12l1] и [EE141 f12l1][EE141_f12l1]
+* DigEl слајдови 2: [EE141 s10l2][EE141_s10l2] и [EE141 s12l2][EE141_s12l2] и [EE141 f12l2][EE141_f12l2]
+* DigEl слајдови 3: [EE141 s10l3][EE141_s10l3] и [EE141 s12l3][EE141_s12l3] и [EE141 f12l3][EE141_f12l3]
+* DigEl слајдови 4: [EE141 s10l4][EE141_s10l4] и [EE141 s12l4][EE141_s12l4] и [EE141 f12l4][EE141_f12l4]
+* DigEl слајдови 5: [EE141 s10l5][EE141_s10l5] и [EE141 s12l5][EE141_s12l5] и [EE141 f12l5][EE141_f12l5]
+* DigEl слајдови 6: [EE141 s10l6][EE141_s10l6] и [EE141 s12l6][EE141_s12l6] и [EE141 f12l6][EE141_f12l6]
+* DigEl слајдови 7: [EE141 s10l7][EE141_s10l7] и [EE141 s12l7][EE141_s12l7] и [EE141 f12l7][EE141_f12l7]
+* DigEl слајдови 8: [EE141 s10l8][EE141_s10l8] и [EE141 s12l8][EE141_s12l8] и [EE141 f12l8][EE141_f12l8]
+* DigEl слајдови 9: [EE141 s10l9][EE141_s10l9] и [EE141 s12l9][EE141_s12l9] и [EE141 f12l9][EE141_f12l9]
+* DigEl слајдови 10: **први колоквијум** и [EE141 s12l10][EE141_s12l10] и [EE141 f12l10][EE141_f12l10]
+* DigEl слајдови 11: [EE141 s10l11][EE141_s10l11] и [EE141 s12l11][EE141_s12l11] и [EE141 f12l11][EE141_f12l11]
+* DigEl слајдови 12: [EE141 s10l12][EE141_s10l12] и [EE141 s12l12][EE141_s12l12] и [EE141 f12l12][EE141_f12l12]
+* DigEl слајдови 13: [EE141 s10l13][EE141_s10l13] и [EE141 s12l13][EE141_s12l13] и [EE141 f12l13][EE141_f12l13]
+* DigEl слајдови 14: [EE141 s10l14][EE141_s10l14] и [EE141 s12l14][EE141_s12l14] и [EE141 f12l14][EE141_f12l14]
+* DigEl слајдови 15: [EE141 s10l15][EE141_s10l15] и [EE141 s12l15][EE141_s12l15] и [EE141 f12l15][EE141_f12l15]
+* DigEl слајдови 16: [EE141 s10l16][EE141_s10l16] и [EE141 s12l16][EE141_s12l16] и [EE141 f12l16][EE141_f12l16]
+* DigEl слајдови 17: [EE141 s10l17][EE141_s10l17] и [EE141 s12l17][EE141_s12l17] и [EE141 f12l17][EE141_f12l17]
+* DigEl слајдови 18: [EE141 s10l18][EE141_s10l18] и [EE141 s12l18][EE141_s12l18] и [EE141 f12l18][EE141_f12l18]
+* DigEl слајдови 19: [EE141 s10l19][EE141_s10l19] и [EE141 s12l19][EE141_s12l19] и [EE141 f12l19][EE141_f12l19]
+* DigEl слајдови 20: [EE141 s10l20][EE141_s10l20] и [EE141 s12l20][EE141_s12l20] и [EE141 f12l20][EE141_f12l20]
+* DigEl слајдови 21: **други колоквијум** и [EE141 s12l21][EE141_s12l21]и [EE141 f12l21][EE141_f12l21]
+* DigEl слајдови 22: [EE141 s10l22][EE141_s10l22] и [EE141 s12l22][EE141_s12l22] и [EE141 f12l22][EE141_f12l22]
+* DigEl слајдови 23: [EE141 s10l23][EE141_s10l23] и [EE141 s12l23][EE141_s12l23] и [EE141 f12l23][EE141_f12l23]
+* DigEl слајдови 24: [EE141 s10l24][EE141_s10l24] и [EE141 s12l24][EE141_s12l24] и [EE141 f12l24][EE141_f12l24]
+* DigEl слајдови 25: [EE141 s10l25][EE141_s10l25] и [EE141 f12l25][EE141_f12l25]
+* DigEl слајдови 26: [EE141 f12l26][EE141_f12l26]
+* DigEl слајдови 27: [EE141 f12l27][EE141_f12l27]
+* DigEl слајдови 28: [EE141 s10l28][EE141_s10l28]
+* DigEl слајдови 29: [EE141 s10l29][EE141_s10l29]
 
 <!-- delete this part
 * DigEl слајдови 2: [EE141 s10l2](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture2-Metrics.pdf) и [EE141 s12l2](https://www.coursehero.com/file/6930411/Lecture2-Metrics-HO2) и [EE141 f12l2](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture2-IC-Basics_2up.pdf)
