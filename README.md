@@ -44,40 +44,6 @@
 * DigEl слајдови 26: [EE141 f12l26][EE141_f12l26]
 * DigEl слајдови 27: [EE141 f12l27][EE141_f12l27]
 * DigEl слајдови 28: [EE141 s10l28][EE141_s10l28]
-* DigEl слајдови 29: [EE141 s10l29][EE141_s10l29]
-
-<!-- delete this part
-* DigEl слајдови 2: [EE141 s10l2](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture2-Metrics.pdf) и [EE141 s12l2](https://www.coursehero.com/file/6930411/Lecture2-Metrics-HO2) и [EE141 f12l2](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture2-IC-Basics_2up.pdf)
-* DigEl слајдови 3: [EE141 s10l3](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture3-DesignRules.pdf) и [EE141 s12l3](https://www.coursehero.com/file/6930412/Lecture3-DesignRules-HO2) и [EE141 f12l3](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture3-Inverter_Metrics_2up.pdf)
-* DigEl слајдови 4: [EE141 s10l4](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture4-SwitchLogic.pdf) и [EE141 s12l4](https://www.coursehero.com/file/6930413/Lecture4-DRLogic-HO2) и [EE141 f12l4](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture4-Gates_Design_Rules_2up.pdf)
-* DigEl слајдови 5: [EE141 s10l5](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture5-SwitchLogic%20Cntd.pdf) и [EE141 s12l5](https://www.coursehero.com/file/6930414/Lecture5-SwitchLogic-HO2) и [EE141 f12l5](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture5-Memory_2up.pdf)
-* DigEl слајдови 6: [EE141 s10l6](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture6-ComplexLogic.pdf) и [EE141 s12l6](https://www.coursehero.com/file/6930415/Lecture6-ComplexLogic-HO2) и [EE141 f12l6](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture6-Inverter_Delay_Opt_2up.pdf)
-* DigEl слајдови 7: [EE141 s10l7](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture7-Wires.pdf) и [EE141 s12l7](https://www.coursehero.com/file/6930416/Lecture7-Wires-HO2) и [EE141 f12l7](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture7-LE_2up.pdf)
-* DigEl слајдови 8: [EE141 s10l8](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture8-Wires-Transistors.pdf) и [EE141 s12l8](https://www.coursehero.com/file/6930417/Lecture8-WiresLogic) и [EE141 f12l8](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture8-Decoder_LE_2up.pdf)
-* DigEl слајдови 9: [EE141 s10l9](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture9-Transistors.pdf) и [EE141 s12l9](https://www.coursehero.com/file/6930418/Lecture9-Transistors-HO2) и [EE141 f12l9](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture9-MOS_Transistor_2up.pdf)
-* DigEl слајдови 10: **први колоквијум** и [EE141 s12l10](https://www.coursehero.com/file/6930419/Lecture10-Inverter-HO2) и [EE141 f12l10](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture10-VTC_2up.pdf)
-* DigEl слајдови 11: [EE141 s10l11](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture11-Inverter.pdf) и [EE141 s12l11](https://www.coursehero.com/file/6930420/Lecture11-InverterDelayEnergy-HO2) и [EE141 f12l11](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture11-MOS_Cap_Delay_2up.pdf)
-* DigEl слајдови 12: [EE141 s10l12](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture12-InverterDelay+Energy.pdf) и [EE141 s12l12](https://www.coursehero.com/file/6930421/Lecture12-Adders) и [EE141 f12l12](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture12-Delay_Power_2up.pdf)
-* DigEl слајдови 13: [EE141 s10l13](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture13-ComplexCMOS.pdf) и [EE141 s12l13](https://www.coursehero.com/file/6930422/Lecture13-Multipliers-HO2) и [EE141 f12l13](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture13-CMOS_Logic_2up.pdf)
-* DigEl слајдови 14: [EE141 s10l14](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture14-ComplexCMOSCntd.pdf) и [EE141 s12l14](https://www.coursehero.com/file/6930423/Lecture14-Memory-HO2) и [EE141 f12l14](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture14-Wires_2up.pdf)
-
-
-
-* DigEl слајдови 15: [EE141 s10l15](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture15-Pass+Ratioed.pdf) и [EE141 s12l15](https://www.coursehero.com/file/6930424/Lecture15-InverterDelayEnergy-HO2) и [EE141 f12l15]
-* DigEl слајдови 16: [EE141 s10l16](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture16-Ratioed+Dynamic.pdf) и [EE141 s12l16](https://www.coursehero.com/file/6930425/Lecture16-ComplexCMOS-HO2) и [EE141 f12l16]
-* DigEl слајдови 17: [EE141 s10l17](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture17-Domino+Registers.pdf) и [EE141 s12l17](https://www.coursehero.com/file/6930426/Lecture17-RatioedPass) и [EE141 f12l17]
-* DigEl слајдови 18: [EE141 s10l18](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture18-Registers.pdf) и [EE141 s12l18](https://www.coursehero.com/file/6930427/Lecture18-Dynamic-HO2) и [EE141 f12l18]
-* DigEl слајдови 19: [EE141 s10l19](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture19-Timing.pdf) и [EE141 s12l19]() и [EE141 f12l19]
-* DigEl слајдови 20: [EE141 s10l20](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture20-Scaling.pdf) и [EE141 s12l20]() и [EE141 f12l20]
-
-* DigEl слајдови 21: [EE141 s10l20]) и [EE141 s12l21]() и [EE141 f12l21]
-* DigEl слајдови 22: [EE141 s10l20]() и [EE141 s12l22]() и [EE141 f12l22]
-* DigEl слајдови 23: [EE141 s10l20]() и [EE141 s12l23]() и [EE141 f12l23]
-* DigEl слајдови 24: [EE141 s10l20]() и [EE141 s12l24]() и [EE141 f12l24]
-* DigEl слајдови 25: [EE141 s10l20]() и [EE141 s12l25]() и [EE141 f12l25]
-* DigEl слајдови 26: [EE141 s10l20]() и [EE141 s12l26]() и [EE141 f12l26]
-* DigEl слајдови 27: [EE141 s10l20]() и [EE141 s12l27]() и [EE141 f12l27]
--->
 
 [EE141_s10l1]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture1-Intro.pdf
 [EE141_s10l2]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture2-Metrics.pdf
@@ -88,7 +54,7 @@
 [EE141_s10l7]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture7-Wires.pdf
 [EE141_s10l8]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture8-Wires-Transistors.pdf
 [EE141_s10l9]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture9-Transistors.pdf
-[EE141_s10l10]:
+<!--[EE141_s10l10]:-->
 [EE141_s10l11]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture11-Inverter.pdf
 [EE141_s10l12]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture12-InverterDelay+Energy.pdf
 [EE141_s10l13]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture13-ComplexCMOS.pdf
@@ -99,13 +65,13 @@
 [EE141_s10l18]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture18-Registers.pdf
 [EE141_s10l19]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture19-Timing.pdf
 [EE141_s10l20]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture20-Scaling.pdf
-[EE141_s10l21]:
+<!--[EE141_s10l21]:-->
 [EE141_s10l22]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture22-Energy.pdf
 [EE141_s10l23]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture23-Adders.pdf
 [EE141_s10l24]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture24-Multipliers.pdf
 [EE141_s10l25]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture25-Memory.pdf
-[EE141_s10l26]:
-[EE141_s10l27]:
+<!--[EE141_s10l26]:-->
+<!--[EE141_s10l27]:-->
 [EE141_s10l28]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture28-Perspectives.pdf
 
 [EE141_s12l1]: https://www.coursehero.com/file/6930410/Lecture1-Intro
