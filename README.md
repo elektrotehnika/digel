@@ -5,17 +5,19 @@
 
 ## Обавештења
 
-Прва полунадокнада предавања из дигиталне електронике биће одржана у петак 9. децембра 2022. године од око 16:30 у учионици Д-66.
-
 Догађај за студенте под називом [Seeds for the future 2022](https://www.huawei.com/minisite/seeds-for-the-future/index.html) који организује Huawei биће ове године одржан преко интернета у периоду од 14. до 21. новембра. Више о самом догађају можете видети у [пропратној презентацији](./Huawei/SftF2022.pdf), а заинтересовани студенти се могу пријавити путем [формулара](https://forms.gle/WtaFBXmT4eu6vedu7) до понедељка 7. новембра 2022. године.
 
-[Путеви каријере у индустрији чипова](https://www.elfak.ni.ac.rs/informacije/novosti-i-obavestenja/prvi-put-u-evropi-putevi-karijere-u-industriji-cipova-na-elektronskom-fakultetu-u-nisu) ([GSA WLI Pathways Conference – Serbia](https://designthesolution.org/gsa-wli-pathways-conference-serbia)) конференција биће одржана 14. новембра на Електронском факултету у Нишу. Догађај се може пратити и путем интернета, а ако буде више заинтересованих могућа је и организација аутобуског превоза.
+[Путеви каријере у индустрији чипова](https://www.elfak.ni.ac.rs/informacije/novosti-i-obavestenja/prvi-put-u-evropi-putevi-karijere-u-industriji-cipova-na-elektronskom-fakultetu-u-nisu) ([GSA WLI Pathways Conference – Serbia](https://designthesolution.org/gsa-wli-pathways-conference-serbia)) конференција одржана је 14. новембра на Електронском факултету у Нишу.
 
 Телеком Србија у оквиру свог IoT лаба организује [стручне праксе за школску 2022/23. годину](https://mts.rs/Poslovni/IoT/lab), а студенти Факултета инжењерских наука по први пут ове године могу да узму учешће.
+
+Полунадокнада предавања из дигиталне електронике одржана је у петак 9. децембра 2022. године од око 16:30 у учионици Д-66.
 
 Предавања и вежбе из Дигиталне електронике у понедељак 3. октобра 2022. године нису одржана због одсуства предметног наставника.
 
 ## Настава
+
+### Слајдови
 
 Предавања:
 * DigEl слајдови 1: [EE141 s10l1][EE141_s10l1] и [EE141 s12l1][EE141_s12l1] и [EE141 f12l1][EE141_f12l1]
@@ -129,12 +131,22 @@
 [EE141_f12l26]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture26-IO_Power_Dist_2up.pdf
 [EE141_f12l27]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture27-Flash_DRAM_2up.pdf
 
+### Корисне видео лекције
+
+На енглеском:
+* UCSD: [ECE 165 - пролеће 2021.](https://www.youtube.com/playlist?list=PLgjAdxoGjYZHrcfBj18dRd04IkD4zK-g7)
+* UC Berkeley: [EE141 - пролеће 2012.](https://www.youtube.com/playlist?list=PLFB6AB660B2B2F7A7)
+* UC Berkeley: [EE141 - пролеће 2008.](https://www.youtube.com/playlist?list=PLOTpKcFOwiQSP6tqPjR7xXylPXTpiIOGD)
+
 ## Литература
 
 Основни уџбеник:
 * [Jan Rabaey](https://en.wikipedia.org/wiki/Jan_M._Rabaey), [Anantha Chandrakasan](https://en.wikipedia.org/wiki/Anantha_P._Chandrakasan), Borivoje Nikolić, [Digital Integrated Circuits: A Design Perspective](https://booksonweb.files.wordpress.com/2011/11/digital-integrated-circuits-a-design-perspective-by-jan-m-rabaey.pdf), [2nd edition]((https://evlsi.files.wordpress.com/2014/11/rabaey-digital-integrated-circuits.pdf))
 
 Напомена: у издању књиге недостају поглавља 8, (9,) 11 и 12.
+
+Помоћни уџбеник:
+* [Neil Weste](https://en.wikipedia.org/wiki/Neil_Weste), David Harris, [CMOS VLSI Design: A Circuits and Systems Perspective](https://pages.hmc.edu/harris/cmosvlsi/4e)
 
 ## Домаћи задаци
 
@@ -146,7 +158,8 @@
 * [шести домаћи задатак](./dz/dz6.md)
 * [седми домаћи задатак](./dz/dz7.md)
 * [осми домаћи задатак](./dz/dz8.md)
-* девети домаћи задатак
+* [девети домаћи задатак](./dz/dz9.md)
+* десети домаћи задатак
 
 ## Семинарски радови
 
@@ -169,22 +182,50 @@
 * Било који добар чланак: 30 поена
 * Било који сјајан чланак: 60 поена
 
-<!-- ## Оцењивање -->
+## Оцењивање
 
-<!-- * предиспитне обавезе: 40-60 поена -->
-<!-- * испит: 40-60 поена -->
+* предиспитне обавезе: 45 поена
+* испит у виду пројекта: 55 поена
 
 ### Предиспитне обавезе
 
 Предиспитне обавезе се састоје од:
-* два, односно три колоквијума - укупно 40-60 поена
-* пројекат - 40-60 поена
+* два, односно три колоквијума - укупно 45 поена
+* пројекат - 55 поена
 
-Други колоквијум из дигиталне електронике биће одржан највероватније у суботу 24. децембра 2022. године.
+Други колоквијум из дигиталне електронике биће одржан у суботу 24. децембра 2022. године с почетком у 11 часова у амфитеатру А.
 
-Трећи колоквијум биће одржан 26. јануара 2023. од 14:30 у термину испита у јануарском испитном року уз обавезну пријаву испита.
+Трећи колоквијум из дигиталне електронике биће одржан у четвртак 26. јануара 2023. године од 14:30 у термину испита у јануарском испитном року уз обавезну пријаву испита.
 
 Коначни [резултати](https://docs.google.com/spreadsheets/d/18icgzX1uaRZ6Xb-33G8LwNwAG0yaKyHIoZRkCruGwlI) првог колоквијума из дигиталне електронике одржаног у недељу 20. новембра 2022. године.
+
+### Пројекти
+
+Теме за пројекте:
+* [Витербијев декодер](https://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f99/projects.html)
+* [Contents-Addressable Memories for Wireless Apps](https://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f00/projects.html)
+* [32-битна АЛЈ](https://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f01/projects.html)
+* [SRAM од 256 речи](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s01/projects.html)
+* [32-битна АЛЈ](https://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f02/projects.html)
+* [Погонитељ такта и генератор случајних бројева](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s02/projects.html)
+* [Делитељ такта](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s03/projects.html)
+* [Декодери и делитељи](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s04/projects.html)
+* [64x32-битни меморијски низ](https://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f04/projects.html)
+* [Погонитељ такта и 16-битна АЛЈ](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s05/projects.html)
+* [Мрежа за дистрибуцију такта и сабирач](https://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f05/projects.html)
+* [Меморија](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s06/projects.html)
+* [A Register File](https://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f06/projects.html)
+* [64x32-bit SRAM](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s07/projects.html)
+* [32x32 Bit SRAM](https://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f07/projects.html)
+* [Нерекурзиван филтар](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s08/projects.html)
+* [32x64 Bit SRAM](https://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f08/projects.html)
+* [An Erroneous SRAM](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s09/projects.html)
+* [Програмабилна функционална јединица](https://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f09/projects.html)
+* [LDPC декодер](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/projects.html)
+* [ADC LUT](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f10/projects.html)
+* [Motion Estimation Memory](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f11/projects.html)
+* [Neural Associative Memory](https://www.coursehero.com/file/6930434/project-phase2)
+* [FPGA SLICEL](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/projects.html)
 
 ### Испит
 
