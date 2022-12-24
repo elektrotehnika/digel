@@ -178,6 +178,16 @@
 * [Ефекат антене](https://en.wikipedia.org/wiki/Antenna_effect)
 * [Списак електричних веза](https://en.wikipedia.org/wiki/Netlist)
 * [Аутоматизација електронског пројектовања](https://en.wikipedia.org/wiki/Electronic_design_automation)
+* [Трка услова](https://en.wikipedia.org/wiki/Race_condition)
+* [Елморово кашњење](https://en.wikipedia.org/wiki/Elmore_delay)
+* [Статичка временска анализа](https://en.wikipedia.org/wiki/Static_timing_analysis)
+* [Кашњење простирања сигнала](https://en.wikipedia.org/wiki/Signal_propagation_delay)
+* [Контаминационо кашњење](https://en.wikipedia.org/wiki/Contamination_delay)
+* [Логички напор](https://en.wikipedia.org/wiki/Logical_effort)
+* [Прорачун кашњења](https://en.wikipedia.org/wiki/Delay_calculation)
+* [Синхрона логика](https://en.wikipedia.org/wiki/Synchronous_circuit)
+* [Асинхрона логика](https://en.wikipedia.org/wiki/Asynchronous_circuit)
+* [Искошеност такта](https://en.wikipedia.org/wiki/Clock_skew)
 * Било који добар чланак: 30 поена
 * Било који сјајан чланак: 60 поена
 
@@ -192,11 +202,9 @@
 * два, односно три колоквијума - укупно 45 поена
 * пројекат - 55 поена
 
-Други колоквијум из дигиталне електронике биће одржан у суботу 24. децембра 2022. године с почетком у 11 часова у амфитеатру А.
-
 Трећи колоквијум из дигиталне електронике биће одржан у четвртак 26. јануара 2023. године од 14:30 у термину испита у јануарском испитном року уз обавезну пријаву испита.
 
-Коначни [резултати](https://docs.google.com/spreadsheets/d/18icgzX1uaRZ6Xb-33G8LwNwAG0yaKyHIoZRkCruGwlI) првог колоквијума из дигиталне електронике одржаног у недељу 20. новембра 2022. године.
+Прелиминарни [резултати](https://docs.google.com/spreadsheets/d/18icgzX1uaRZ6Xb-33G8LwNwAG0yaKyHIoZRkCruGwlI) другог колоквијума из дигиталне електронике одржаног у суботу 24. децембра 2022. године.
 
 ### Пројекти
 
