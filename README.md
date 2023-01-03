@@ -188,6 +188,9 @@
 * [Синхрона логика](https://en.wikipedia.org/wiki/Synchronous_circuit)
 * [Асинхрона логика](https://en.wikipedia.org/wiki/Asynchronous_circuit)
 * [Искошеност такта](https://en.wikipedia.org/wiki/Clock_skew)
+* [Дигитално контролисани осцилатор](https://en.wikipedia.org/wiki/Digitally_controlled_oscillator)
+* [Дигитално-аналогни претварач](https://en.wikipedia.org/wiki/Digital-to-analog_converter)
+* [Дигитални синтисајзер](https://en.wikipedia.org/wiki/Digital_synthesizer)
 * Било који добар чланак: 30 поена
 * Било који сјајан чланак: 60 поена
 
@@ -204,20 +207,29 @@
 
 Трећи колоквијум из дигиталне електронике биће одржан у четвртак 26. јануара 2023. године од 14:30 у термину испита у јануарском испитном року уз обавезну пријаву испита.
 
-Прелиминарни [резултати](https://docs.google.com/spreadsheets/d/18icgzX1uaRZ6Xb-33G8LwNwAG0yaKyHIoZRkCruGwlI) другог колоквијума из дигиталне електронике одржаног у суботу 24. децембра 2022. године.
+Коначни [резултати](https://docs.google.com/spreadsheets/d/18icgzX1uaRZ6Xb-33G8LwNwAG0yaKyHIoZRkCruGwlI) првог и другог колоквијума из дигиталне електронике.
 
 Увид у радове и жалбе на резултате биће одржани у понедељак 26. децембра 2022. године у 16:00 у сали 216. Анализа решења задатака са другог колоквијума може се наћи [овде](https://youtu.be/6cKYg9bxtGE?t=90).
 
 ### Пројекти
 
-Теме за пројекте:
+Пројекти се раде појединачно или у пару. Сваки пројекат се састоји обично из четири дела:
+* **теоретске основе** (10 поена) -- извештај који садржи шему на нивоу логичких кола и блокова, као и њену свеобухватну анализу
+* **оптимизација кашњења** (10 поена) - xschem шема и ngspice симулације
+* **оптимизација потрошње** (10 поена) - xschem шема и ngspice симулације
+* **лејаут** (25 поена) - лејаут кола из једног од претходне две тачке
+Напомена: лејаут може бити рађен у било ком програму, али мора бити DRC и LVS чист. Обавезно дати упоредни приказ резултата шематских симулација и одговарајућих пост-лејаут симулација које укључују и екстраковане паразитне капацитивности и отпорности.
+
+Уколико студент ради појединачно, самостално бира технолошки процес у коме ће радити (GF180MCU или SKY130), док у случају да студенти раде у пару, један студент ради последње три тачке у GF180MCU, док други ради у SKY130 технолошком процесу, а први део пројекта је заједнички.
+
+Теме за пројекте (једна по студенту или једна по пару, ко први изабере):
 * [Витербијев декодер](https://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f99/projects.html)
 * [Contents-Addressable Memories for Wireless Apps](https://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f00/projects.html)
 * [32-битна АЛЈ](https://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f01/projects.html)
 * [SRAM од 256 речи](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s01/projects.html)
 * [32-битна АЛЈ](https://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f02/projects.html)
 * [Погонитељ такта и генератор случајних бројева](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s02/projects.html)
-* [Делитељ такта](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s03/projects.html)
+* [Погонитељ такта и брзи делитељ](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s03/projects.html)
 * [Декодери и делитељи](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s04/projects.html)
 * [64x32-битни меморијски низ](https://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f04/projects.html)
 * [Погонитељ такта и 16-битна АЛЈ](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s05/projects.html)
@@ -235,10 +247,22 @@
 * [Motion Estimation Memory](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f11/projects.html)
 * [Neural Associative Memory](https://www.coursehero.com/file/6930434/project-phase2)
 * [FPGA SLICEL](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/projects.html)
+* било која тема на предлог студен(а)та уз претходни усмени договор с наставником
+
+**Дигитално контролисани осцилатори** - универзална тема (без ограничења по броју студената или парова):
+* [Дигитално контролисани осцилатор са матрицом тростатичких инвертора](https://picture.iczhiku.com/resource/eetop/WHKgpuOkOKruuNnX.pdf)
+* [Дигитално контролисани осцилатор са варикапом](https://www.cs.ccu.edu.tw/~wildwolf/pdf.files/tcasii2005-1.pdf)
+* [Унапређени дигитално контролисани осцилатор са варикапом](https://www.cs.ccu.edu.tw/~wildwolf/pdf.files/tcasii2007-1.pdf)
+* [Фазно спрегнут дигитално контролисани осцилатор](https://ieeexplore.ieee.org/document/6891375)
+* било који други дигитално контролисани осцилатор
+
+[Формулар](https://docs.google.com/forms/d/e/1FAIpQLScNEo3q_JVxJlUwQdI0xrHlVxrQbqahu0pbiWSDOtHYgRJxyA/viewform) за пријаву пројекта.
+
+[Списак](https://docs.google.com/spreadsheets/d/1i8mziFhKsBr1T4BF3xFRDiudE4pVVHAyDjuk6W9GnSI) пријављених пројеката.
 
 ### Испит
 
-Испит се полаже у виду завршног пројекта који се ради појединачно или у пару.
+Испит се полаже у виду завршног пројекта који се ради појединачно или у пару и који носи највише 55 поена.
 
 ### Оцењивање
 
