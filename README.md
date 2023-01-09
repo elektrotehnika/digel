@@ -5,6 +5,9 @@
 
 ## Обавештења
 
+<details markdown='block'>
+<summary>Претходна обавештења</summary>
+
 Догађај за студенте под називом [Seeds for the future 2022](https://www.huawei.com/minisite/seeds-for-the-future/index.html) који организује Huawei биће ове године одржан преко интернета у периоду од 14. до 21. новембра. Више о самом догађају можете видети у [пропратној презентацији](./Huawei/SftF2022.pdf), а заинтересовани студенти се могу пријавити путем [формулара](https://forms.gle/WtaFBXmT4eu6vedu7) до понедељка 7. новембра 2022. године.
 
 [Путеви каријере у индустрији чипова](https://www.elfak.ni.ac.rs/informacije/novosti-i-obavestenja/prvi-put-u-evropi-putevi-karijere-u-industriji-cipova-na-elektronskom-fakultetu-u-nisu) ([GSA WLI Pathways Conference – Serbia](https://designthesolution.org/gsa-wli-pathways-conference-serbia)) конференција одржана је 14. новембра на Електронском факултету у Нишу.
@@ -15,11 +18,14 @@
 
 Предавања и вежбе из Дигиталне електронике у понедељак 3. октобра 2022. године нису одржана због одсуства предметног наставника.
 
+</details>
+
 ## Настава
 
 ### Слајдови
 
-Предавања:
+<details markdown='block'>
+<summary>Предавања</summary>
 * DigEl слајдови 1: [EE141 s10l1][EE141_s10l1] и [EE141 s12l1][EE141_s12l1] и [EE141 f12l1][EE141_f12l1]
 * DigEl слајдови 2: [EE141 s10l2][EE141_s10l2] и [EE141 s12l2][EE141_s12l2] и [EE141 f12l2][EE141_f12l2]
 * DigEl слајдови 3: [EE141 s10l3][EE141_s10l3] и [EE141 s12l3][EE141_s12l3] и [EE141 f12l3][EE141_f12l3]
@@ -48,6 +54,7 @@
 * DigEl слајдови 26: [EE141 f12l26][EE141_f12l26]
 * DigEl слајдови 27: [EE141 f12l27][EE141_f12l27]
 * DigEl слајдови 28: [EE141 s10l28][EE141_s10l28]
+</details>
 
 [EE141_s10l1]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture1-Intro.pdf
 [EE141_s10l2]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture2-Metrics.pdf
@@ -137,6 +144,7 @@
 * UCSD: [ECE 165 - пролеће 2021.](https://www.youtube.com/playlist?list=PLgjAdxoGjYZHrcfBj18dRd04IkD4zK-g7)
 * BIU: [83-313 - јесен 2020.](https://www.youtube.com/playlist?list=PLZU5hLL_713yF0Lkwjj9O3ttVIuhPV-me)
 * UC Berkeley: [EE141 - пролеће 2012.](https://www.youtube.com/playlist?list=PLFB6AB660B2B2F7A7)
+* UC Berkeley: [EE141](http://www.infocobuild.com/education/audio-video-courses/electronics/ee141-berkeley.html) - [јесен 2011.](http://www.infocobuild.com/education/audio-video-courses/electronics/ee141-fall2011-berkeley.html), [пролеће 2011.](http://www.infocobuild.com/education/audio-video-courses/electronics/ee141-spring2011-berkeley.html), [јесен 2010.](http://www.infocobuild.com/education/audio-video-courses/electronics/ee141-fall2010-berkeley.html), [пролеће 2010.](http://www.infocobuild.com/education/audio-video-courses/electronics/ee141-spring2010-berkeley.html)
 * UC Berkeley: [EE141 - пролеће 2008.](https://www.youtube.com/playlist?list=PLOTpKcFOwiQSP6tqPjR7xXylPXTpiIOGD)
 
 ## Литература
@@ -244,6 +252,7 @@
 * [Програмабилна функционална јединица](https://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f09/projects.html)
 * [LDPC декодер](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/projects.html)
 * [ADC LUT](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f10/projects.html)
+* Ultra-Low Power Neural Processor ([Spike-Sorting DSP Architecture](https://www.researchgate.net/publication/224226807_A_130-m_W_64-channel_neural_spike-sorting_DSP_chip) -> Spike Detection Block)
 * [Motion Estimation Memory](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f11/projects.html)
 * [Neural Associative Memory](https://www.coursehero.com/file/6930434/project-phase2)
 * [FPGA SLICEL](http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/projects.html)
