@@ -147,13 +147,24 @@
 * UC Berkeley: [EE141](http://www.infocobuild.com/education/audio-video-courses/electronics/ee141-berkeley.html) - [јесен 2011.](http://www.infocobuild.com/education/audio-video-courses/electronics/ee141-fall2011-berkeley.html), [пролеће 2011.](http://www.infocobuild.com/education/audio-video-courses/electronics/ee141-spring2011-berkeley.html), [јесен 2010.](http://www.infocobuild.com/education/audio-video-courses/electronics/ee141-fall2010-berkeley.html), [пролеће 2010.](http://www.infocobuild.com/education/audio-video-courses/electronics/ee141-spring2010-berkeley.html)
 * UC Berkeley: [EE141 - пролеће 2008.](https://www.youtube.com/playlist?list=PLOTpKcFOwiQSP6tqPjR7xXylPXTpiIOGD)
 
+### Остали корисни курсеви
+
+На енглеском:
+* [MIT 6.374](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003)
+* [Stanford EE371](https://web.stanford.edu/class/archive/ee/ee371/ee371.1066)
+
+На српском:
+* [ЕТФ Београд - Основи дигиталне електронике](http://tnt.etf.bg.ac.rs/~oe2ode)
+* [ЕТФ Београд - Дигитална електроника](http://tnt.etf.bg.ac.rs/~oe3de)
+
 ## Литература
 
 Основни уџбеник (недостају поглавља 8, (9,) 11 и 12):
 * [Jan Rabaey](https://en.wikipedia.org/wiki/Jan_M._Rabaey), [Anantha Chandrakasan](https://en.wikipedia.org/wiki/Anantha_P._Chandrakasan), Borivoje Nikolić, [Digital Integrated Circuits: A Design Perspective](https://booksonweb.files.wordpress.com/2011/11/digital-integrated-circuits-a-design-perspective-by-jan-m-rabaey.pdf), [2nd edition](https://evlsi.files.wordpress.com/2014/11/rabaey-digital-integrated-circuits.pdf)
 
-Помоћни уџбеник:
+Помоћни уџбеници:
 * [Neil Weste](https://en.wikipedia.org/wiki/Neil_Weste), David Harris, [CMOS VLSI Design: A Circuits and Systems Perspective](https://pages.hmc.edu/harris/cmosvlsi/4e), [4th edition](http://fa.ee.sut.ac.ir/Downloads/AcademicStaff/24/Courses/11/CMOS VLSI Design A Circuits and Systems Perspective, 4th Edition (2011).pdf)
+* David Harris, Sarah L. Harris, [Digital Design and Computer Architecture](http://www.csit-sun.pub.ro/courses/cn2/Digital_design_book/Digital%20Design%20and%20Computer%20Architecture.pdf) [2nd edition](https://raw.githubusercontent.com/stevemac321/pdfs/master/Digital%20Design%20and%20Computer%20Architecture%20(2nd%20Ed)(gnv64).pdf)
 
 ## Домаћи задаци
 
