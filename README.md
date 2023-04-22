@@ -5,9 +5,9 @@
 
 ## Обавештења
 
-Веома користан [вебинар](https://efabless.zoom.us/webinar/register/WN_9s3l_NatRC-CrzamCvZAIg) за цртање лејаута и коришћење Klayout-а, Magic-а и Netgen-а, који су неопходни за израду пројеката из дигиталне електронике биће одржан у четвртак 13. априла од 18 часова. Препоручује се свим студентима.
+Веома користан [вебинар](https://efabless.zoom.us/webinar/register/WN_9s3l_NatRC-CrzamCvZAIg) за цртање лејаута и коришћење Klayout-а, Magic-а и Netgen-а, који су неопходни за израду пројеката из дигиталне електронике одржан је у четвртак 13. априла од 18 часова.
 
-Веома користан [вебинар](https://efabless.zoom.us/webinar/register/WN_JbhyztppRbaARrFjjCECsA) за коришћење Xschem-а и израду пројеката из дигиталне електронике генерално биће одржан у четвртак 9. фебруара од 18 часова. Препоручује се свим студентима.
+Веома користан [вебинар](https://efabless.zoom.us/webinar/register/WN_JbhyztppRbaARrFjjCECsA) за коришћење Xschem-а и израду пројеката из дигиталне електронике генерално одржан је у четвртак 9. фебруара од 18 часова.
 
 <details markdown='block'>
 <summary>Претходна обавештења</summary>
@@ -165,6 +165,7 @@
 
 На енглеском:
 * [Analog schematic capture & simulation in XSchem with Stefan Schippers](https://www.youtube.com/watch?v=q3ZcpSkVVuc)
+* [Analog layout using Magic and Klayout with Tim Edwards & Thomas Parry](https://www.youtube.com/watch?v=CSZm3q4rUBg)
 
 ## Литература
 
@@ -172,7 +173,7 @@
 * [Jan Rabaey](https://en.wikipedia.org/wiki/Jan_M._Rabaey), [Anantha Chandrakasan](https://en.wikipedia.org/wiki/Anantha_P._Chandrakasan), Borivoje Nikolić, [Digital Integrated Circuits: A Design Perspective](https://booksonweb.files.wordpress.com/2011/11/digital-integrated-circuits-a-design-perspective-by-jan-m-rabaey.pdf), [2nd edition](https://evlsi.files.wordpress.com/2014/11/rabaey-digital-integrated-circuits.pdf)
 
 Помоћни уџбеници:
-* [Neil Weste](https://en.wikipedia.org/wiki/Neil_Weste), David Harris, [CMOS VLSI Design: A Circuits and Systems Perspective](https://pages.hmc.edu/harris/cmosvlsi/4e), [4th edition](http://fa.ee.sut.ac.ir/Downloads/AcademicStaff/24/Courses/11/CMOS VLSI Design A Circuits and Systems Perspective, 4th Edition (2011).pdf)
+* [Neil Weste](https://en.wikipedia.org/wiki/Neil_Weste), David Harris, [CMOS VLSI Design: A Circuits and Systems Perspective](https://pages.hmc.edu/harris/cmosvlsi/4e), [4th edition](http://fa.ee.sut.ac.ir/Downloads/AcademicStaff/24/Courses/11/CMOS VLSI Design A Circuits and Systems Perspective, 4th Edition (2011).pdf), [Pearson](https://www.pearson.com/en-us/subject-catalog/p/cmos-vlsi-design-a-circuits-and-systems-perspective/P200000003427), 2010
 * David Harris, Sarah L. Harris, [Digital Design and Computer Architecture](http://www.csit-sun.pub.ro/courses/cn2/Digital_design_book/Digital%20Design%20and%20Computer%20Architecture.pdf) [2nd edition](https://raw.githubusercontent.com/stevemac321/pdfs/master/Digital%20Design%20and%20Computer%20Architecture%20(2nd%20Ed)(gnv64).pdf)
 
 ## Домаћи задаци
