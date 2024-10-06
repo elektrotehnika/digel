@@ -1,11 +1,12 @@
 # Дигитална електроника (Digital electronics)
 
-Зимски семестар школске 2022./2023. године
+Зимски семестар школске 2024/2025. године
 * наставник: Владимир М. Миловановић
+* сарадник: Дејан Д. Петковић
 
 ## Обавештења
 
-Одбрана пројеката за студенте који су испит из дигиталне електронике пријавили у октобарском испитном року, биће одржана у понедељак 25. октобра 2023. године од 11:15 часова у учионици 119 (или Д-66).
+Предавања из Дигиталне електронике почела су у понедељак 30. септембра 2024. године.
 
 Организује се први RISC-V хакатон у Србији! Сви потенцијално заинтересовани студенти могу се [пријавити](https://www.veriests.com/landing_pages/veriest-risc-v-hackathon-2023) како би се упознали са појединостима. Информације ће бити одржане путем интернета у понедељак 11. септембра 2023. године од 14:00 часова.
 
@@ -21,11 +22,6 @@
 [Путеви каријере у индустрији чипова](https://www.elfak.ni.ac.rs/informacije/novosti-i-obavestenja/prvi-put-u-evropi-putevi-karijere-u-industriji-cipova-na-elektronskom-fakultetu-u-nisu) ([GSA WLI Pathways Conference – Serbia](https://designthesolution.org/gsa-wli-pathways-conference-serbia)) конференција одржана је 14. новембра на Електронском факултету у Нишу.
 
 Телеком Србија у оквиру свог IoT лаба организује [стручне праксе за школску 2022/23. годину](https://mts.rs/Poslovni/IoT/lab), а студенти Факултета инжењерских наука по први пут ове године могу да узму учешће.
-
-Полунадокнада предавања из дигиталне електронике одржана је у петак 9. децембра 2022. године од око 16:30 у учионици Д-66.
-
-Предавања и вежбе из Дигиталне електронике у понедељак 3. октобра 2022. године нису одржана због одсуства предметног наставника.
-
 </details>
 
 ## Настава
@@ -34,6 +30,53 @@
 
 <details markdown='block'>
 <summary>Предавања</summary>
+* DigEl слајдови и снимак 1: [EECS151_f22l1s][EECS151_f22l1slides], [EECS151_s24l1s][EECS151_f24l1slides] и [EECS151_f22l1r][EECS151_f22l1recording]/[EECS151_f24l1r][EECS151_s24l1recording]
+* DigEl слајдови и снимак 2: [EECS151_f22l2s][EECS151_f22l2slides], [EECS151_s24l2s][EECS151_f24l2slides] и [EECS151_f22l2r][EECS151_f22l2recording]
+* DigEl слајдови и снимак 3: [EECS151_f22l3s][EECS151_f22l3slides], [EECS151_s24l3s][EECS151_f24l3slides] и [EECS151_f22l3r][EECS151_f22l3recording]
+* DigEl слајдови и снимак 4: [EECS151_f22l4s][EECS151_f22l4slides], [EECS151_s24l4s][EECS151_f24l4slides] и [EECS151_f22l4r][EECS151_f22l4recording]
+* DigEl слајдови и снимак 5: [EECS151_f22l5s][EECS151_f22l5slides], [EECS151_s24l5s][EECS151_f24l5slides] и [EECS151_f22l5r][EECS151_f22l5recording]
+* DigEl слајдови и снимак 6: [EECS151_f22l6s][EECS151_f22l6slides], [EECS151_s24l6s][EECS151_f24l6slides] и [EECS151_f22l6r][EECS151_f22l6recording]
+* DigEl слајдови и снимак 7: [EECS151_f22l7s][EECS151_f22l7slides], [EECS151_s24l7s][EECS151_f24l7slides] и [EECS151_f22l7r][EECS151_f22l7recording]
+* DigEl слајдови и снимак 8: [EECS151_f22l8s][EECS151_f22l8slides], [EECS151_s24l8s][EECS151_f24l8slides] и [EECS151_f22l8r][EECS151_f22l8recording]
+* DigEl слајдови и снимак 9: [EECS151_f22l9s][EECS151_f22l9slides], [EECS151_s24l9s][EECS151_f24l9slides] и [EECS151_f22l9r][EECS151_f22l9recording]
+</details>
+
+[EECS151_f22l1slides]: https://drive.google.com/file/d/114FfYOuDaiV0rEfnEMWYu89jHZ2urmWZ/view?usp=sharing
+[EECS151_f22l2slides]: https://drive.google.com/file/d/1-OISmkPtbEZf1CqdG_ks3HUZ17wYryvC/view?usp=sharing
+[EECS151_f22l3slides]: https://drive.google.com/file/d/1-Smqjs99sPYel3O49xCzuoNUMJGXAuay/view?usp=sharing
+[EECS151_f22l4slides]: https://drive.google.com/file/d/1-8xa141jYCPta7gdVtebwjLdRwxKVgLf/view?usp=sharing
+[EECS151_f22l5slides]: https://drive.google.com/file/d/1-ZD67zD2qnMcNFlgfWnlCkAFmULfdGlQ/view?usp=sharing
+[EECS151_f22l6slides]: https://drive.google.com/file/d/100Qk80I5i0TICBAJ2CQJSlEgrVsseEip/view?usp=sharing
+[EECS151_f22l7slides]: https://drive.google.com/file/d/105fQuUceujkdFg7kyQhgeRLOX_HDbl2w/view?usp=sharing
+[EECS151_f22l8slides]: https://drive.google.com/file/d/1-3T9QUEu3ktbd74_MrVMv-ecdIX2WpYY/view?usp=sharing
+[EECS151_f22l9slides]: https://drive.google.com/file/d/1-K5PdvsMXLOutna8ViCQ2-g1bvGmcAan/view?usp=sharing
+
+[EECS151_f22l1recording]: https://youtu.be/vWgH08tzaAs
+[EECS151_f22l2recording]: https://youtu.be/SGbhLvN0XCE
+[EECS151_f22l3recording]: https://youtu.be/UKw4DVvlaoA
+[EECS151_f22l4recording]: https://youtu.be/9Nqr1h6E_IA
+[EECS151_f22l5recording]: https://youtu.be/SsTMRhNhXcQ
+[EECS151_f22l6recording]: https://youtu.be/DGMqOihTVIo
+[EECS151_f22l7recording]: https://youtu.be/DGMqOihTVIo
+[EECS151_f22l8recording]: https://youtu.be/bqoTDTXK_Jo
+[EECS151_f22l9recording]: https://youtu.be/3O3OiNSrCPg
+
+[EECS151_f24l1slides]: https://www.eecs151.org/files/lec1-intro.pdf
+[EECS151_f24l2slides]: https://www.eecs151.org/files/lec2-design.pdf
+[EECS151_f24l3slides]: https://www.eecs151.org/files/lec3-verilog1.pdf
+[EECS151_f24l4slides]: https://www.eecs151.org/files/lec4-verilog2.pdf
+[EECS151_f24l5slides]: https://www.eecs151.org/files/lec5-FPGA.pdf
+[EECS151_f24l6slides]: https://www.eecs151.org/files/lec6-CL.pdf
+[EECS151_f24l7slides]: https://www.eecs151.org/files/lec7-CL2-FSM1.pdf
+[EECS151_f24l8slides]: https://www.eecs151.org/files/lec8-FSM2.pdf
+[EECS151_f24l9slides]: https://www.eecs151.org/files/lec9-CMOS1.pdf
+
+[EECS151_s24l1recording]: https://drive.google.com/file/d/1sKchXxILDCqcwwVqbPjQgiYwcleyVbGm/view?usp=sharing
+
+### Стари слајдови
+
+<details markdown='block'>
+<summary>Стара предавања</summary>
 * DigEl слајдови 1: [EE141 s10l1][EE141_s10l1] и [EE141 s12l1][EE141_s12l1] и [EE141 f12l1][EE141_f12l1]
 * DigEl слајдови 2: [EE141 s10l2][EE141_s10l2] и [EE141 s12l2][EE141_s12l2] и [EE141 f12l2][EE141_f12l2]
 * DigEl слајдови 3: [EE141 s10l3][EE141_s10l3] и [EE141 s12l3][EE141_s12l3] и [EE141 f12l3][EE141_f12l3]
@@ -151,6 +194,7 @@
 На енглеском:
 * UCSD: [ECE 165 - пролеће 2021.](https://www.youtube.com/playlist?list=PLgjAdxoGjYZHrcfBj18dRd04IkD4zK-g7)
 * BIU: [83-313 - јесен 2020.](https://www.youtube.com/playlist?list=PLZU5hLL_713yF0Lkwjj9O3ttVIuhPV-me)
+* UC Berkeley: [EECS151/251A - јесен 2019.](https://www.youtube.com/playlist?list=PLW6lmkTQ3FQVyMbSHpXyaGK9GvDEsr0mm)
 * UC Berkeley: [EE141 - пролеће 2012.](https://www.youtube.com/playlist?list=PLFB6AB660B2B2F7A7)
 * UC Berkeley: [EE141](http://www.infocobuild.com/education/audio-video-courses/electronics/ee141-berkeley.html) - [јесен 2011.](http://www.infocobuild.com/education/audio-video-courses/electronics/ee141-fall2011-berkeley.html), [пролеће 2011.](http://www.infocobuild.com/education/audio-video-courses/electronics/ee141-spring2011-berkeley.html), [јесен 2010.](http://www.infocobuild.com/education/audio-video-courses/electronics/ee141-fall2010-berkeley.html), [пролеће 2010.](http://www.infocobuild.com/education/audio-video-courses/electronics/ee141-spring2010-berkeley.html)
 * UC Berkeley: [EE141 - пролеће 2008.](https://www.youtube.com/playlist?list=PLOTpKcFOwiQSP6tqPjR7xXylPXTpiIOGD)
