@@ -50,16 +50,44 @@
 [EECS151_f22l7slides]: https://drive.google.com/file/d/105fQuUceujkdFg7kyQhgeRLOX_HDbl2w/view?usp=sharing
 [EECS151_f22l8slides]: https://drive.google.com/file/d/1-3T9QUEu3ktbd74_MrVMv-ecdIX2WpYY/view?usp=sharing
 [EECS151_f22l9slides]: https://drive.google.com/file/d/1-K5PdvsMXLOutna8ViCQ2-g1bvGmcAan/view?usp=sharing
+[EECS151_f22l10slides]: https://drive.google.com/file/d/1-CZNtN8QfLXsETwsZWHgxMQxQ9wpNH6r/view?usp=sharing
+[EECS151_f22l11slides]: https://drive.google.com/file/d/1-VW4wRE_I8Fc4Fm_Ba60eAWymch0R2OH/view?usp=sharing
+[EECS151_f22l13slides]: https://drive.google.com/file/d/1-5MH6bTbOzrobAHuDhKpDXvDZ7J0474v/view?usp=sharing
+[EECS151_f22l14slides]: https://drive.google.com/file/d/1-Eiesul5V1XAMSN9F4b9EuHHgvL4Xdy2/view?usp=sharing
+[EECS151_f22l15slides]: https://drive.google.com/file/d/1-NDnKeDKYWlvjW37bkJu4ZZq7_13Ef_i/view?usp=sharing
+[EECS151_f22l16slides]: https://drive.google.com/file/d/10-T7wvhueAiS9gCFWu_ERZMhhsKmhJ82/view?usp=sharing
+[EECS151_f22l17slides]: https://drive.google.com/file/d/1-B4rYRf27ehoOyddL8X91fRbwaJUMRza/view?usp=sharing
+[EECS151_f22l18slides]: https://drive.google.com/file/d/1-Eihd0P3kLVKViVve2pFX-pxKtoKyThk/view?usp=sharing
+[EECS151_f22l19slides]: https://drive.google.com/file/d/1-RuFg1rAZppsxl14lrXpEANDFhV22nd2/view?usp=sharing
+[EECS151_f22l20slides]: https://drive.google.com/file/d/1-aH4eh8Djb4-04piZ0yXCuv3ZwcaDuBl/view?usp=sharing
+[EECS151_f22l21slides]: https://drive.google.com/file/d/1-wEUMDo9RFgBP0dOho4uYSnOLCtxX5ir/view?usp=sharing
+[EECS151_f22l23slides]: https://drive.google.com/file/d/1-QEXmQfQgNpr1yLM3_OI-oWKfOTteOxm/view?usp=sharing
+[EECS151_f22l24slides]: https://drive.google.com/file/d/1-3L6hWOHrldJ8GAyF7RbFTZJnOUgXYHH/view?usp=sharing
 
 [EECS151_f22l1recording]: https://youtu.be/vWgH08tzaAs
 [EECS151_f22l2recording]: https://youtu.be/SGbhLvN0XCE
 [EECS151_f22l3recording]: https://youtu.be/UKw4DVvlaoA
 [EECS151_f22l4recording]: https://youtu.be/9Nqr1h6E_IA
 [EECS151_f22l5recording]: https://youtu.be/SsTMRhNhXcQ
-[EECS151_f22l6recording]: https://youtu.be/DGMqOihTVIo
+[EECS151_f22l6recording]: https://youtu.be/ZHyXaD2byvE
 [EECS151_f22l7recording]: https://youtu.be/DGMqOihTVIo
 [EECS151_f22l8recording]: https://youtu.be/bqoTDTXK_Jo
 [EECS151_f22l9recording]: https://youtu.be/3O3OiNSrCPg
+[EECS151_f22l10recording]: https://youtu.be/A0vWdXsBSSg
+[EECS151_f22l11recording]: https://youtu.be/sSK1BGCq9jM
+[EECS151_f22l13recording]: https://youtu.be/OlQZnAOIur8
+[EECS151_f22l14recording]: https://youtu.be/sMEqOytqsLQ
+[EECS151_f22l15recording]: https://youtu.be/JQ-cSvErwqE
+[EECS151_f22l16recording]: https://youtu.be/napJsae659M
+[EECS151_f22MRSrecording]: https://youtu.be/6hBruOwYp1c
+[EECS151_f22l17recording]: https://youtu.be/rn8J3iylEuI
+[EECS151_f22l18recording]: https://youtu.be/7T3Wv7Y5Ncs
+[EECS151_f22l19recording]: https://youtu.be/ejUqYWDBqW0
+[EECS151_f22l20recording]: https://youtu.be/L_IOoQeMCPo
+[EECS151_f22l21recording]: https://youtu.be/EvX1Tl9FMzk
+[EECS151_f22l22recording]: https://youtu.be/9MwtDFZabLM
+[EECS151_f22l23recording]: https://youtu.be/2SAY_C8rCn8
+[EECS151_f22l24recording]: https://youtu.be/LoGb-K57Bks
 
 [EECS151_f24l1slides]: https://www.eecs151.org/files/lec1-intro.pdf
 [EECS151_f24l2slides]: https://www.eecs151.org/files/lec2-design.pdf
@@ -70,6 +98,12 @@
 [EECS151_f24l7slides]: https://www.eecs151.org/files/lec7-CL2-FSM1.pdf
 [EECS151_f24l8slides]: https://www.eecs151.org/files/lec8-FSM2.pdf
 [EECS151_f24l9slides]: https://www.eecs151.org/files/lec9-CMOS1.pdf
+
+
+
+
+
+
 
 [EECS151_s24l1recording]: https://drive.google.com/file/d/1sKchXxILDCqcwwVqbPjQgiYwcleyVbGm/view?usp=sharing
 
