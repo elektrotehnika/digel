@@ -1,0 +1,6 @@
+[submodule "lab/asic"]
+	path = lab/asic
+	url = git@github.com:elektrotehnika/digel-asic-labs-fa24.git
+[submodule "lab/hammer"]
+	path = lab/hammer
+	url = git@github.com:elektrotehnika/hammer.git
