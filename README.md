@@ -8,7 +8,9 @@
 
 Предавања из Дигиталне електронике почела су у понедељак 30. септембра 2024. године.
 
-Организује се први RISC-V хакатон у Србији! Сви потенцијално заинтересовани студенти могу се [пријавити](https://www.veriests.com/landing_pages/veriest-risc-v-hackathon-2023) како би се упознали са појединостима. Информације ће бити одржане путем интернета у понедељак 11. септембра 2023. године од 14:00 часова.
+Упутство за лаб вежбе налази се [овде](./lab/asic/README.md). Рок за израду [прве лаб вежбе](./lab/asic/lab1/README.md) је 4. новембар 2024. године (23.59 часова).
+
+Организује се први RISC-V хакатон у Србији! Сви потенцијално заинтересовани студенти могу се [пријавити](https://www.veriests.com/landing_pages/veriest-risc-v-hackathon-2023) како би се упознали са појединостима. Информације ће бити одржане путем интернета у понедељак 11. септембра 2023. године од 14.00 часова.
 
 Веома користан [вебинар](https://efabless.zoom.us/webinar/register/WN_9s3l_NatRC-CrzamCvZAIg) за цртање лејаута и коришћење Klayout-а, Magic-а и Netgen-а, који су неопходни за израду пројеката из дигиталне електронике одржан је у четвртак 13. априла од 18 часова.
 
@@ -257,6 +259,11 @@
 Помоћни уџбеници:
 * [Neil Weste](https://en.wikipedia.org/wiki/Neil_Weste), David Harris, [CMOS VLSI Design: A Circuits and Systems Perspective](https://pages.hmc.edu/harris/cmosvlsi/4e), [4th edition](http://fa.ee.sut.ac.ir/Downloads/AcademicStaff/24/Courses/11/CMOS VLSI Design A Circuits and Systems Perspective, 4th Edition (2011).pdf), [Pearson](https://www.pearson.com/en-us/subject-catalog/p/cmos-vlsi-design-a-circuits-and-systems-perspective/P200000003427), 2010
 * David Harris, Sarah L. Harris, [Digital Design and Computer Architecture](http://www.csit-sun.pub.ro/courses/cn2/Digital_design_book/Digital%20Design%20and%20Computer%20Architecture.pdf) [2nd edition](https://raw.githubusercontent.com/stevemac321/pdfs/master/Digital%20Design%20and%20Computer%20Architecture%20(2nd%20Ed)(gnv64).pdf)
+
+## Лаб вежбе
+
+* [упутство](./lab/asic/README.md)
+* [прва лаб вежба](./lab/asic/lab1/README.md)
 
 ## Домаћи задаци
 
