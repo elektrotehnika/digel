@@ -28,34 +28,34 @@
 
 ## Настава
 
-### Слајдови
+### Слајдови и снимци
 
 <details markdown='block'>
 <summary>Предавања</summary>
-* DigEl слајдови и снимак 1: [EECS151_f22l1s][EECS151_f22l1slides], [EECS151_s24l1s][EECS151_f24l1slides] и [EECS151_f22l1r][EECS151_f22l1recording]/[EECS151_f24l1r][EECS151_s24l1recording]
-* DigEl слајдови и снимак 2: [EECS151_f22l2s][EECS151_f22l2slides], [EECS151_s24l2s][EECS151_f24l2slides] и [EECS151_f22l2r][EECS151_f22l2recording]
-* DigEl слајдови и снимак 3: [EECS151_f22l3s][EECS151_f22l3slides], [EECS151_s24l3s][EECS151_f24l3slides] и [EECS151_f22l3r][EECS151_f22l3recording]
-* DigEl слајдови и снимак 4: [EECS151_f22l4s][EECS151_f22l4slides], [EECS151_s24l4s][EECS151_f24l4slides] и [EECS151_f22l4r][EECS151_f22l4recording]
-* DigEl слајдови и снимак 5: [EECS151_f22l5s][EECS151_f22l5slides], [EECS151_s24l5s][EECS151_f24l5slides] и [EECS151_f22l5r][EECS151_f22l5recording]
-* DigEl слајдови и снимак 6: [EECS151_f22l6s][EECS151_f22l6slides], [EECS151_s24l6s][EECS151_f24l6slides] и [EECS151_f22l6r][EECS151_f22l6recording]
-* DigEl слајдови и снимак 7: [EECS151_f22l7s][EECS151_f22l7slides], [EECS151_s24l7s][EECS151_f24l7slides] и [EECS151_f22l7r][EECS151_f22l7recording]
-* DigEl слајдови и снимак 8: [EECS151_f22l8s][EECS151_f22l8slides], [EECS151_s24l8s][EECS151_f24l8slides] и [EECS151_f22l8r][EECS151_f22l8recording]
-* DigEl слајдови и снимак 9: [EECS151_f22l9s][EECS151_f22l9slides], [EECS151_s24l9s][EECS151_f24l9slides] и [EECS151_f22l9r][EECS151_f22l9recording]
-* DigEl слајдови и снимак 10: [EECS151_f22l10s][EECS151_f22l10slides], [EECS151_s24l10s][EECS151_f24l10slides] и [EECS151_f22l10r][EECS151_f22l10recording]
-* DigEl слајдови и снимак 11: [EECS151_f22l11s][EECS151_f22l11slides], [EECS151_s24l11s][EECS151_f24l11slides] и [EECS151_f22l11r][EECS151_f22l11recording]
-* DigEl слајдови и снимак 12: **Apple гостујуће предавање: FPGA емулација** и [EECS151_s24l12s][EECS151_f24l12slides]
-* DigEl слајдови и снимак 13: [EECS151_f22l13s][EECS151_f22l13slides], [EECS151_s24l13s][EECS151_f24l13slides] и [EECS151_f22l13r][EECS151_f22l13recording]
-* DigEl слајдови и снимак 14: [EECS151_f22l14s][EECS151_f22l14slides], [EECS151_s24l14s][EECS151_f24l14slides] и [EECS151_f22l14r][EECS151_f22l14recording]
-* DigEl слајдови и снимак 15: [EECS151_f22l15s][EECS151_f22l15slides], [EECS151_s24l15s][EECS151_f24l15slides] и [EECS151_f22l15r][EECS151_f22l15recording]
-* DigEl слајдови и снимак 16: [EECS151_f22l16s][EECS151_f22l16slides], [EECS151_s24l16s][EECS151_f24l16slides] и [EECS151_f22l16r][EECS151_f22l16recording]
-* DigEl слајдови и снимак 17: [EECS151_f22l17s][EECS151_f22l17slides], [EECS151_s24l17s][EECS151_f24l17slides] и [EECS151_f22l17r][EECS151_f22l17recording]
-* DigEl слајдови и снимак 18: [EECS151_f22l18s][EECS151_f22l18slides], [EECS151_s24l18s][EECS151_f24l18slides] и [EECS151_f22l18r][EECS151_f22l18recording]
-* DigEl слајдови и снимак 19: [EECS151_f22l19s][EECS151_f22l19slides], [EECS151_s24l19s][EECS151_f24l19slides] и [EECS151_f22l19r][EECS151_f22l19recording]
-* DigEl слајдови и снимак 20: [EECS151_f22l20s][EECS151_f22l20slides], [EECS151_s24l20s][EECS151_f24l20slides] и [EECS151_f22l20r][EECS151_f22l20recording]
-* DigEl слајдови и снимак 21: [EECS151_f22l21s][EECS151_f22l21slides], [EECS151_s24l21s][EECS151_f24l21slides] и [EECS151_f22l21r][EECS151_f22l21recording]
-* DigEl слајдови и снимак 22: [EECS151_f22l22s][EECS151_f22l22slides], [EECS151_s24l22s][EECS151_f24l22slides] и [EECS151_f22l22r][EECS151_f22l22recording]
-* DigEl слајдови и снимак 23: [EECS151_f22l23s][EECS151_f22l23slides], [EECS151_s24l23s][EECS151_f24l23slides] и [EECS151_f22l23r][EECS151_f22l23recording]
-* DigEl слајдови и снимак 24: [EECS151_f22l24s][EECS151_f22l24slides], [EECS151_s24l24s][EECS151_f24l24slides] и [EECS151_f22l24r][EECS151_f22l24recording]
+* DigEl предавања слајдови и снимак 1: [EECS151_f22l1s][EECS151_f22l1slides], [EECS151_s24l1s][EECS151_f24l1slides] и [EECS151_f22l1r][EECS151_f22l1recording]/[EECS151_f24l1r][EECS151_s24l1recording]
+* DigEl предавања слајдови и снимак 2: [EECS151_f22l2s][EECS151_f22l2slides], [EECS151_s24l2s][EECS151_f24l2slides] и [EECS151_f22l2r][EECS151_f22l2recording]
+* DigEl предавања слајдови и снимак 3: [EECS151_f22l3s][EECS151_f22l3slides], [EECS151_s24l3s][EECS151_f24l3slides] и [EECS151_f22l3r][EECS151_f22l3recording]
+* DigEl предавања слајдови и снимак 4: [EECS151_f22l4s][EECS151_f22l4slides], [EECS151_s24l4s][EECS151_f24l4slides] и [EECS151_f22l4r][EECS151_f22l4recording]
+* DigEl предавања слајдови и снимак 5: [EECS151_f22l5s][EECS151_f22l5slides], [EECS151_s24l5s][EECS151_f24l5slides] и [EECS151_f22l5r][EECS151_f22l5recording]
+* DigEl предавања слајдови и снимак 6: [EECS151_f22l6s][EECS151_f22l6slides], [EECS151_s24l6s][EECS151_f24l6slides] и [EECS151_f22l6r][EECS151_f22l6recording]
+* DigEl предавања слајдови и снимак 7: [EECS151_f22l7s][EECS151_f22l7slides], [EECS151_s24l7s][EECS151_f24l7slides] и [EECS151_f22l7r][EECS151_f22l7recording]
+* DigEl предавања слајдови и снимак 8: [EECS151_f22l8s][EECS151_f22l8slides], [EECS151_s24l8s][EECS151_f24l8slides] и [EECS151_f22l8r][EECS151_f22l8recording]
+* DigEl предавања слајдови и снимак 9: [EECS151_f22l9s][EECS151_f22l9slides], [EECS151_s24l9s][EECS151_f24l9slides] и [EECS151_f22l9r][EECS151_f22l9recording]
+* DigEl предавања слајдови и снимак 10: [EECS151_f22l10s][EECS151_f22l10slides], [EECS151_s24l10s][EECS151_f24l10slides] и [EECS151_f22l10r][EECS151_f22l10recording]
+* DigEl предавања слајдови и снимак 11: [EECS151_f22l11s][EECS151_f22l11slides], [EECS151_s24l11s][EECS151_f24l11slides] и [EECS151_f22l11r][EECS151_f22l11recording]
+* DigEl предавања слајдови и снимак 12: **Apple гостујуће предавање: FPGA емулација** и [EECS151_s24l12s][EECS151_f24l12slides]
+* DigEl предавања слајдови и снимак 13: [EECS151_f22l13s][EECS151_f22l13slides], [EECS151_s24l13s][EECS151_f24l13slides] и [EECS151_f22l13r][EECS151_f22l13recording]
+* DigEl предавања слајдови и снимак 14: [EECS151_f22l14s][EECS151_f22l14slides], [EECS151_s24l14s][EECS151_f24l14slides] и [EECS151_f22l14r][EECS151_f22l14recording]
+* DigEl предавања слајдови и снимак 15: [EECS151_f22l15s][EECS151_f22l15slides], [EECS151_s24l15s][EECS151_f24l15slides] и [EECS151_f22l15r][EECS151_f22l15recording]
+* DigEl предавања слајдови и снимак 16: [EECS151_f22l16s][EECS151_f22l16slides], [EECS151_s24l16s][EECS151_f24l16slides] и [EECS151_f22l16r][EECS151_f22l16recording]
+* DigEl предавања слајдови и снимак 17: [EECS151_f22l17s][EECS151_f22l17slides], [EECS151_s24l17s][EECS151_f24l17slides] и [EECS151_f22l17r][EECS151_f22l17recording]
+* DigEl предавања слајдови и снимак 18: [EECS151_f22l18s][EECS151_f22l18slides], [EECS151_s24l18s][EECS151_f24l18slides] и [EECS151_f22l18r][EECS151_f22l18recording]
+* DigEl предавања слајдови и снимак 19: [EECS151_f22l19s][EECS151_f22l19slides], [EECS151_s24l19s][EECS151_f24l19slides] и [EECS151_f22l19r][EECS151_f22l19recording]
+* DigEl предавања слајдови и снимак 20: [EECS151_f22l20s][EECS151_f22l20slides], [EECS151_s24l20s][EECS151_f24l20slides] и [EECS151_f22l20r][EECS151_f22l20recording]
+* DigEl предавања слајдови и снимак 21: [EECS151_f22l21s][EECS151_f22l21slides], [EECS151_s24l21s][EECS151_f24l21slides] и [EECS151_f22l21r][EECS151_f22l21recording]
+* DigEl предавања слајдови и снимак 22: [EECS151_f22l22s][EECS151_f22l22slides], [EECS151_s24l22s][EECS151_f24l22slides] и [EECS151_f22l22r][EECS151_f22l22recording]
+* DigEl предавања слајдови и снимак 23: [EECS151_f22l23s][EECS151_f22l23slides], [EECS151_s24l23s][EECS151_f24l23slides] и [EECS151_f22l23r][EECS151_f22l23recording]
+* DigEl предавања слајдови и снимак 24: [EECS151_f22l24s][EECS151_f22l24slides], [EECS151_s24l24s][EECS151_f24l24slides] и [EECS151_f22l24r][EECS151_f22l24recording]
 </details>
 
 [EECS151_f22l1slides]: https://drive.google.com/file/d/114FfYOuDaiV0rEfnEMWYu89jHZ2urmWZ/view?usp=sharing
@@ -131,6 +131,34 @@
 [EECS151_f24l24slides]: https://www.eecs151.org/files/lec24-clk-wrapup.pdf
 
 [EECS151_s24l1recording]: https://drive.google.com/file/d/1sKchXxILDCqcwwVqbPjQgiYwcleyVbGm/view?usp=sharing
+
+<details markdown='block'>
+<summary>Вежбе</summary>
+* DigEl вежбе слајдови и снимак 1: [EECS151_f22d1r][EECS151_f22d1recording]
+* DigEl вежбе слајдови и снимак 2: [EECS151_f22d2r][EECS151_f22d2recording]
+* DigEl вежбе слајдови и снимак 3: [EECS151_f22d3r][EECS151_f22d3recording]
+* DigEl вежбе слајдови и снимак 4: [EECS151_f22d4r][EECS151_f22d4recording]
+* DigEl вежбе слајдови и снимак 5: [EECS151_f22d5r][EECS151_f22d5recording]
+* DigEl вежбе слајдови и снимак 6: [EECS151_f22d6r][EECS151_f22d6recording]
+* DigEl вежбе слајдови и снимак 7: [EECS151_f22d7r][EECS151_f22d7recording]
+<!--* DigEl вежбе слајдови и снимак 8: [EECS151_f22d8r][EECS151_f22d7p2recording]-->
+<!--* DigEl вежбе слајдови и снимак 9: [EECS151_f22d9r][EECS151_f22d8recording]-->
+</details>
+
+[EECS151_f22d1recording]: https://youtu.be/74lPIRCoXrA
+[EECS151_f22d2recording]: https://youtu.be/R8MAhiiuu-c
+[EECS151_f22d3recording]: https://youtu.be/OxQVO3vD7as
+[EECS151_f22d4recording]: https://youtu.be/rf13Mc_pOjw
+[EECS151_f22d5recording]: https://youtu.be/Js6g6OV0RuI
+[EECS151_f22d6recording]: https://youtu.be/FX-l3X5fJD8
+[EECS151_f22d7recording]: https://youtu.be/GwsZfOD4FVk
+[EECS151_f22d7p2recording]: https://youtu.be/HQQlt95WrP8
+[EECS151_f22MRSQ1&Q3]: https://youtu.be/2M8q9TQWGCg
+[EECS151_f22MRSQ4]: https://youtu.be/yIwTug4sp9c
+[EECS151_f22d8recording]: https://youtu.be/EwNKC3fHDas
+[EECS151_s22d8recording]: https://youtu.be/Pka7H5B6Fo4
+[EECS151_s22d9recording]: https://youtu.be/4AJG85cfuIY
+[EECS151_s22d10recording]: https://youtu.be/V9dEY4R20Ns
 
 ### Стари слајдови
 
@@ -251,9 +279,9 @@
 ### Корисне видео лекције
 
 На енглеском:
+* UC Berkeley: EECS151/251A [Софија Шао - јесен 2022.](https://www.youtube.com/playlist?list=PLkFD6_40KJIzF1rzQ5Sp97Kv7wHhth7YK) и [Боривоје Николић - јесен 2019.](https://www.youtube.com/playlist?list=PLW6lmkTQ3FQVyMbSHpXyaGK9GvDEsr0mm)
 * UCSD: [ECE 165 - пролеће 2021.](https://www.youtube.com/playlist?list=PLgjAdxoGjYZHrcfBj18dRd04IkD4zK-g7)
 * BIU: [83-313 - јесен 2020.](https://www.youtube.com/playlist?list=PLZU5hLL_713yF0Lkwjj9O3ttVIuhPV-me)
-* UC Berkeley: [EECS151/251A - јесен 2019.](https://www.youtube.com/playlist?list=PLW6lmkTQ3FQVyMbSHpXyaGK9GvDEsr0mm)
 * UC Berkeley: [EE141 - пролеће 2012.](https://www.youtube.com/playlist?list=PLFB6AB660B2B2F7A7)
 * UC Berkeley: [EE141](http://www.infocobuild.com/education/audio-video-courses/electronics/ee141-berkeley.html) - [јесен 2011.](http://www.infocobuild.com/education/audio-video-courses/electronics/ee141-fall2011-berkeley.html), [пролеће 2011.](http://www.infocobuild.com/education/audio-video-courses/electronics/ee141-spring2011-berkeley.html), [јесен 2010.](http://www.infocobuild.com/education/audio-video-courses/electronics/ee141-fall2010-berkeley.html), [пролеће 2010.](http://www.infocobuild.com/education/audio-video-courses/electronics/ee141-spring2010-berkeley.html)
 * UC Berkeley: [EE141 - пролеће 2008.](https://www.youtube.com/playlist?list=PLOTpKcFOwiQSP6tqPjR7xXylPXTpiIOGD)
