@@ -43,7 +43,7 @@
 * DigEl слајдови и снимак 9: [EECS151_f22l9s][EECS151_f22l9slides], [EECS151_s24l9s][EECS151_f24l9slides] и [EECS151_f22l9r][EECS151_f22l9recording]
 * DigEl слајдови и снимак 10: [EECS151_f22l10s][EECS151_f22l10slides], [EECS151_s24l10s][EECS151_f24l10slides] и [EECS151_f22l10r][EECS151_f22l10recording]
 * DigEl слајдови и снимак 11: [EECS151_f22l11s][EECS151_f22l11slides], [EECS151_s24l11s][EECS151_f24l11slides] и [EECS151_f22l11r][EECS151_f22l11recording]
-* DigEl слајдови и снимак 12: [EECS151_f22l12s][EECS151_f22l12slides], [EECS151_s24l12s][EECS151_f24l12slides] и [EECS151_f22l12r][EECS151_f22l12recording]
+* DigEl слајдови и снимак 12: **Apple гостујуће предавање: FPGA емулација** и [EECS151_s24l12s][EECS151_f24l12slides]
 * DigEl слајдови и снимак 13: [EECS151_f22l13s][EECS151_f22l13slides], [EECS151_s24l13s][EECS151_f24l13slides] и [EECS151_f22l13r][EECS151_f22l13recording]
 * DigEl слајдови и снимак 14: [EECS151_f22l14s][EECS151_f22l14slides], [EECS151_s24l14s][EECS151_f24l14slides] и [EECS151_f22l14r][EECS151_f22l14recording]
 * DigEl слајдови и снимак 15: [EECS151_f22l15s][EECS151_f22l15slides], [EECS151_s24l15s][EECS151_f24l15slides] и [EECS151_f22l15r][EECS151_f22l15recording]
