@@ -8,7 +8,11 @@
 
 Предавања из Дигиталне електронике почела су у понедељак 30. септембра 2024. године.
 
-Упутство за лаб вежбе налази се [овде](./lab/asic/README.md). Рок за израду [прве лаб вежбе](./lab/asic/lab1/README.md) је 4. новембар 2024. године (23.59 часова).
+Упутство за лаб вежбе налази се [овде](https://github.com/elektrotehnika/digel-asic-labs-fa24/blob/main/README.md).
+
+Рок за израду [прве лаб вежбе](https://github.com/elektrotehnika/digel-asic-labs-fa24/blob/main/lab1/README.md) је 4. новембар 2024. године (23.59 часова).
+
+Рок за израду [друге лаб вежбе](https://github.com/elektrotehnika/digel-asic-labs-fa24/blob/main/lab2/README.md) је 18. новембар 2024. године (23.59 часова).
 
 Организује се први RISC-V хакатон у Србији! Сви потенцијално заинтересовани студенти могу се [пријавити](https://www.veriests.com/landing_pages/veriest-risc-v-hackathon-2023) како би се упознали са појединостима. Информације ће бити одржане путем интернета у понедељак 11. септембра 2023. године од 14.00 часова.
 
@@ -313,8 +317,8 @@
 
 ## Лаб вежбе
 
-* [упутство](./lab/asic/README.md)
-* [прва лаб вежба](./lab/asic/lab1/README.md)
+* [упутство](https://github.com/elektrotehnika/digel-asic-labs-fa24/blob/main/README.md)
+* [прва лаб вежба](https://github.com/elektrotehnika/digel-asic-labs-fa24/blob/main/lab1/README.md)
 * [друга лаб вежба](https://github.com/elektrotehnika/digel-asic-labs-fa24/blob/main/lab2/README.md)
 
 
