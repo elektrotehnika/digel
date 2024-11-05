@@ -315,6 +315,8 @@
 
 * [упутство](./lab/asic/README.md)
 * [прва лаб вежба](./lab/asic/lab1/README.md)
+* [друга лаб вежба](https://github.com/elektrotehnika/digel-asic-labs-fa24/blob/main/lab2/README.md)
+
 
 ## Домаћи задаци
 
