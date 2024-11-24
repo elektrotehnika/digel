@@ -6,26 +6,25 @@
 
 ## Обавештења
 
-Предавања из Дигиталне електронике почела су у понедељак 30. септембра 2024. године.
-
-Упутство за лаб вежбе налази се [овде](https://github.com/elektrotehnika/digel-asic-labs-fa24/blob/main/README.md).
-
-Рок за израду [прве лаб вежбе](https://github.com/elektrotehnika/digel-asic-labs-fa24/blob/main/lab1/README.md) је 4. новембар 2024. године (23.59 часова).
-
-Рок за израду [друге лаб вежбе](https://github.com/elektrotehnika/digel-asic-labs-fa24/blob/main/lab2/README.md) је 18. новембар 2024. године (23.59 часова).
+Рок за израду [треће лабораторијске вежбе](https://github.com/elektrotehnika/digel-asic-labs-fa24/blob/main/lab3/README.md) је 2. децембар 2024. године (23.59 часова).
 
 Прелиминарни резултати прве лаб вежбе налазе се [овде](https://docs.google.com/spreadsheets/d/1rXWBFgnk-9rhvAgkDkMtKDZDPot1asxDPgyBQ71rqTM/edit?gid=0#gid=0). Увид у резултате и потенцијалне жалбе биће обављени на крају семестра заједно са осталим лаб вежбама. Парцијално додељене поене студенти могу наћи и у својим гит репозиторијумима лаб вежби (комит са тагом `lab1-res`). Поени ће по завршетку свих вежби бити скалирани на укупан број поена које носе лаб вежбе.
 
-Рок за израду [треће лаб вежбе](https://github.com/elektrotehnika/digel-asic-labs-fa24/blob/main/lab3/README.md) је 2. децембар 2024. године (23.59 часова).
+Рок за израду [друге лабораторијске вежбе](https://github.com/elektrotehnika/digel-asic-labs-fa24/blob/main/lab2/README.md) је 18. новембар 2024. године (23.59 часова).
 
-Организује се први RISC-V хакатон у Србији! Сви потенцијално заинтересовани студенти могу се [пријавити](https://www.veriests.com/landing_pages/veriest-risc-v-hackathon-2023) како би се упознали са појединостима. Информације ће бити одржане путем интернета у понедељак 11. септембра 2023. године од 14.00 часова.
+Рок за израду [прве лабораторијске вежбе](https://github.com/elektrotehnika/digel-asic-labs-fa24/blob/main/lab1/README.md) је 4. новембар 2024. године (23.59 часова).
+
+[Упутство за лабораторијске вежбе](https://github.com/elektrotehnika/digel-asic-labs-fa24/blob/main/README.md).
+
+Предавања из Дигиталне електронике почела су у понедељак 30. септембра 2024. године.
+
+<details markdown='block'>
+<summary>Претходна обавештења</summary>
+Требало је да буде организован први RISC-V хакатон у Србији! Сви потенцијално заинтересовани студенти могли су се [пријавити](https://www.veriests.com/landing_pages/veriest-risc-v-hackathon-2023) како би се упознали са појединостима.
 
 Веома користан [вебинар](https://efabless.zoom.us/webinar/register/WN_9s3l_NatRC-CrzamCvZAIg) за цртање лејаута и коришћење Klayout-а, Magic-а и Netgen-а, који су неопходни за израду пројеката из дигиталне електронике одржан је у четвртак 13. априла од 18 часова.
 
 Веома користан [вебинар](https://efabless.zoom.us/webinar/register/WN_JbhyztppRbaARrFjjCECsA) за коришћење Xschem-а и израду пројеката из дигиталне електронике генерално одржан је у четвртак 9. фебруара од 18 часова.
-
-<details markdown='block'>
-<summary>Претходна обавештења</summary>
 
 Догађај за студенте под називом [Seeds for the future 2022](https://www.huawei.com/minisite/seeds-for-the-future/index.html) који организује Huawei биће ове године одржан преко интернета у периоду од 14. до 21. новембра. Више о самом догађају можете видети у [пропратној презентацији](./Huawei/SftF2022.pdf), а заинтересовани студенти се могу пријавити путем [формулара](https://forms.gle/WtaFBXmT4eu6vedu7) до понедељка 7. новембра 2022. године.
 
