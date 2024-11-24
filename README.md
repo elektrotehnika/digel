@@ -287,7 +287,7 @@
 ### Корисне видео лекције
 
 На енглеском:
-* UC Berkeley: EECS151/251A [Софија Шао - јесен 2022.](https://www.youtube.com/playlist?list=PLkFD6_40KJIzF1rzQ5Sp97Kv7wHhth7YK) и [Боривоје Николић - јесен 2019.](https://www.youtube.com/playlist?list=PLW6lmkTQ3FQVyMbSHpXyaGK9GvDEsr0mm)
+* UC Berkeley: EECS151/251A Софија Шао - [јесен 2022.](https://www.youtube.com/playlist?list=PLkFD6_40KJIzF1rzQ5Sp97Kv7wHhth7YK) и [пролеће 2022.](https://www.youtube.com/playlist?list=PLkFD6_40KJIxrKaukIqIZMrtSRf6hNdPp) и Боривоје Николић - [јесен 2019.](https://www.youtube.com/playlist?list=PLW6lmkTQ3FQVyMbSHpXyaGK9GvDEsr0mm)
 * UCSD: [ECE 165 - пролеће 2021.](https://www.youtube.com/playlist?list=PLgjAdxoGjYZHrcfBj18dRd04IkD4zK-g7)
 * BIU: [83-313 - јесен 2020.](https://www.youtube.com/playlist?list=PLZU5hLL_713yF0Lkwjj9O3ttVIuhPV-me)
 * UC Berkeley: [EE141 - пролеће 2012.](https://www.youtube.com/playlist?list=PLFB6AB660B2B2F7A7)
