@@ -295,6 +295,11 @@
 * UC Berkeley: [EE141](http://www.infocobuild.com/education/audio-video-courses/electronics/ee141-berkeley.html) - [јесен 2011.](http://www.infocobuild.com/education/audio-video-courses/electronics/ee141-fall2011-berkeley.html), [пролеће 2011.](http://www.infocobuild.com/education/audio-video-courses/electronics/ee141-spring2011-berkeley.html), [јесен 2010.](http://www.infocobuild.com/education/audio-video-courses/electronics/ee141-fall2010-berkeley.html), [пролеће 2010.](http://www.infocobuild.com/education/audio-video-courses/electronics/ee141-spring2010-berkeley.html)
 * UC Berkeley: [EE141 - пролеће 2008.](https://www.youtube.com/playlist?list=PLOTpKcFOwiQSP6tqPjR7xXylPXTpiIOGD)
 
+На српском:
+* [Научно-стручни скуп 75 година од патентирања биполарног транзистора: на хоризонту догађаја и иза њега](https://www.etf.bg.ac.rs/sr/vesti/2023/11/naucno-strucni-skup-br-75-godina-od-patentiranja-bipolarnog-tranzistora-na-horizontu-dogadjaja-i-iza-njega)
+* Предраг Пејовић - [Доба полупроводника: када, зашто, где и како је почело?](https://www.youtube.com/watch?v=lB7oWFKs_LM)
+* Владимир Миловановић - [CMOS – синоним за транзистор и интегрисано коло (у 99,99% случајева)](https://www.etf.bg.ac.rs/uploads/files/vesti/2023/75_god_tranzistora/05%20CMOS%20nov-001.mp4)
+
 ### Остали корисни курсеви
 
 На енглеском:
@@ -320,7 +325,7 @@
 * [Neil Weste](https://en.wikipedia.org/wiki/Neil_Weste), David Harris, [CMOS VLSI Design: A Circuits and Systems Perspective](https://pages.hmc.edu/harris/cmosvlsi/4e), [4th edition](http://fa.ee.sut.ac.ir/Downloads/AcademicStaff/24/Courses/11/CMOS VLSI Design A Circuits and Systems Perspective, 4th Edition (2011).pdf), [Pearson](https://www.pearson.com/en-us/subject-catalog/p/cmos-vlsi-design-a-circuits-and-systems-perspective/P200000003427), 2010
 * David Harris, Sarah L. Harris, [Digital Design and Computer Architecture](http://www.csit-sun.pub.ro/courses/cn2/Digital_design_book/Digital%20Design%20and%20Computer%20Architecture.pdf) [2nd edition](https://raw.githubusercontent.com/stevemac321/pdfs/master/Digital%20Design%20and%20Computer%20Architecture%20(2nd%20Ed)(gnv64).pdf)
 
-## Лаб вежбе
+## Лабораторијске вежбе
 
 * [упутство](https://github.com/elektrotehnika/digel-asic-labs-fa24/blob/main/README.md)
 * [прва лаб вежба](https://github.com/elektrotehnika/digel-asic-labs-fa24/blob/main/lab1/README.md)
