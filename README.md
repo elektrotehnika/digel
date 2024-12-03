@@ -6,6 +6,8 @@
 
 ## Обавештења
 
+Рок за израду [четврте лабораторијске вежбе](https://github.com/elektrotehnika/digel-asic-labs-fa24/blob/main/lab4/README.md) је 22. децембар 2024. године (23.59 часова).
+
 Консултације за лабораторијске вежбе биће одржане у петак, 29. новембра 2024. године од 10.15 до 11.45 часова, у лабораторији Д-62.
 
 Рок за израду [треће лабораторијске вежбе](https://github.com/elektrotehnika/digel-asic-labs-fa24/blob/main/lab3/README.md) је 2. децембар 2024. године (23.59 часова).
@@ -331,7 +333,7 @@
 * [прва лаб вежба](https://github.com/elektrotehnika/digel-asic-labs-fa24/blob/main/lab1/README.md)
 * [друга лаб вежба](https://github.com/elektrotehnika/digel-asic-labs-fa24/blob/main/lab2/README.md)
 * [трећа лаб вежба](https://github.com/elektrotehnika/digel-asic-labs-fa24/blob/main/lab3/README.md)
-
+* [четврта лаб вежба](https://github.com/elektrotehnika/digel-asic-labs-fa24/blob/main/lab4/README.md)
 
 ## Домаћи задаци
 
