@@ -6,6 +6,8 @@
 
 ## Обавештења
 
+Рокови за израду четврте и пете лабораторијске вежбе биће продужени за време колико буде трајала тренутна обустава наставних активности рачунајући од 17. децембра 2024. године. Предаја урађених лабораторијских вежби као и одабир и сама израда завршних пројеката могући су и током трајања тренутних протеста.
+
 Рок за израду [четврте лабораторијске вежбе](https://github.com/elektrotehnika/digel-asic-labs-fa24/blob/main/lab4/README.md) је 22. децембар 2024. године (23.59 часова).
 
 Консултације за лабораторијске вежбе биће одржане у петак, 29. новембра 2024. године од 10.15 до 11.45 часова, у лабораторији Д-62.
@@ -321,7 +323,7 @@
 ## Литература
 
 Основни уџбеник (недостају поглавља 8, (9,) 11 и 12):
-* [Jan Rabaey](https://en.wikipedia.org/wiki/Jan_M._Rabaey), [Anantha Chandrakasan](https://en.wikipedia.org/wiki/Anantha_P._Chandrakasan), Borivoje Nikolić, [Digital Integrated Circuits: A Design Perspective](https://booksonweb.files.wordpress.com/2011/11/digital-integrated-circuits-a-design-perspective-by-jan-m-rabaey.pdf), [2nd edition](https://evlsi.files.wordpress.com/2014/11/rabaey-digital-integrated-circuits.pdf)
+* [Jan Rabaey](https://en.wikipedia.org/wiki/Jan_M._Rabaey), [Anantha Chandrakasan](https://en.wikipedia.org/wiki/Anantha_P._Chandrakasan), Borivoje Nikolić, [Digital Integrated Circuits: A Design Perspective](https://booksonweb.files.wordpress.com/2011/11/digital-integrated-circuits-a-design-perspective-by-jan-m-rabaey.pdf), [2nd edition](https://kolegite.com/EE_library/books_and_lectures/Микроелектроника/Rabaey - Digital Integrated Circuits - Asign Perspective (2Nd Edition).pdf)
 
 Помоћни уџбеници:
 * [Neil Weste](https://en.wikipedia.org/wiki/Neil_Weste), David Harris, [CMOS VLSI Design: A Circuits and Systems Perspective](https://pages.hmc.edu/harris/cmosvlsi/4e), [4th edition](http://fa.ee.sut.ac.ir/Downloads/AcademicStaff/24/Courses/11/CMOS VLSI Design A Circuits and Systems Perspective, 4th Edition (2011).pdf), [Pearson](https://www.pearson.com/en-us/subject-catalog/p/cmos-vlsi-design-a-circuits-and-systems-perspective/P200000003427), 2010
